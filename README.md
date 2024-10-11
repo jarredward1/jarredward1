@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jarred! <br/><a href="https://www.linkedin.com/in/jarredward1/">IT Professional</a>, <a href="https://www.jarredward.com">Tech Blogger</a></h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>🧑🏿‍💻Projects:</h2>
 
 - <b>Microsoft</b>
   - [Windows 10]
