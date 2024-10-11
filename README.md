@@ -1,15 +1,22 @@
-<h1>Hi, I'm Jarred! <br/><a href="https://www.linkedin.com/in/jarredward1/">Cybersecurity Professional</a>, <a href="https://www.jarredward.com">Tech Blogger</a></h1>
+<h1>Hi, I'm Jarred! <br/><a href="https://www.linkedin.com/in/jarredward1/">IT Professional</a>, <a href="https://www.jarredward.com">Tech Blogger</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Microsoft</b>
+  - [Windows 10]
+  - [Windows Server 2019]
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📄 Certifications</h2>
 
-- [Google Cybersecurity Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Cysa+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- <b>CompTIA</b>
+  - [A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Network+]
+  - [Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+ 
+- <b>Cisco</b>
+  - [CCNA](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [CCNP]
 
 
 
