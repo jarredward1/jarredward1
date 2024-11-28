@@ -13,12 +13,6 @@
   - [A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
   - [Network+]
   - [Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
- 
-- <b>Cisco</b>
-  - [CCNA](https://www.youtube.com/watch?v=a83ASGn_V_s)
-  - [CCNP]
-
-
 
 <h2>📚 I'm Currently Learning:</h2>
 
