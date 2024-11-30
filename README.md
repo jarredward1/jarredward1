@@ -1,17 +1,21 @@
 # Hello, I'm Jarred!
-<a href="https://linkedin.com/in/jarredward1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ibri.png" alt="Your Image Badge" />
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-%20-%23006C82?style=for-the-badge&logo=[ld-logo-v2.webp](https://postimg.cc/VdHchkrs)&logoColor=white)](https://app.letsdefend.io/user/ibri)
+<a href="https://linkedin.com/in/jarredward1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+[![jarredward.tech](https://img.shields.io/badge/jarredward.tech-%23007BFF?style=for-the-badge&logo=world&logoColor=white)](https://jarredward.tech)
+
+
+
+
+I am a cybersecurity student with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. I am specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +27,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -45,14 +48,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+## Certificates and Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-%20-%2344CC11?style=for-the-badge&logo=google&logoColor=white)    
+
+![Security+ Certification](https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white)
+
+
 </div>
 
 ## Projects
@@ -61,5 +64,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <h2>📚 I'm Currently Learning:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Blue Team Level 1 (BTL1) Certification](https://www.securityblue.team/certifications/blue-team-level-1#domains)
+
+- ![Blue Team Level 1](https://img.shields.io/badge/Blue_Team_Level_1-%20-%2344CC11?style=for-the-badge&logo=security_blue_team&logoColor=white)
+
+- [![Blue Team Level 1 Certification](https://img.shields.io/badge/Blue_Team_Level_1-%20-%23007BFF?style=flat-square&logo=security&logoColor=white)](https://www.securityblue.team/certifications/blue-team-level-1#domains)
+
+
+
 
