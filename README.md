@@ -64,11 +64,7 @@ My journey in information technology has led me to develop a passion for cyberse
 
 <h2>📚 I'm Currently Learning:</h2>
 
-- [Blue Team Level 1 (BTL1) Certification](https://www.securityblue.team/certifications/blue-team-level-1#domains)
-
-- ![Blue Team Level 1](https://img.shields.io/badge/Blue_Team_Level_1-%20-%2344CC11?style=for-the-badge&logo=security_blue_team&logoColor=white)
-
-- [![Blue Team Level 1 Certification](https://img.shields.io/badge/Blue_Team_Level_1-%20-%23007BFF?style=flat-square&logo=security&logoColor=white)](https://www.securityblue.team/certifications/blue-team-level-1#domains)
+[![Blue Team Level 1 Certification](https://img.shields.io/badge/Blue_Team_Level_1-%20-%23007BFF?style=for-the-badge&logo=security&logoColor=white)](https://www.securityblue.team/certifications/blue-team-level-1#domains)
 
 
 
