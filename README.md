@@ -4,6 +4,11 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/WannaCryWolf.png" alt="WannaCryWolf Badge" />
 </a>
 
+
+<a href="https://tryhackme.com/r/p/WannaCryWolf" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/WannaCryWolf.png" alt="WannaCryWolf Badge" />
+</a>
+
 [![LetsDefend](https://img.shields.io/badge/LetsDefend-%20-%23006C82?style=for-the-badge&logo=[ld-logo-v2.webp](https://postimg.cc/VdHchkrs)&logoColor=white)](https://app.letsdefend.io/user/ibri)
 <a href="https://linkedin.com/in/jarredward1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 [![jarredward.tech](https://img.shields.io/badge/jarredward.tech-%23007BFF?style=for-the-badge&logo=world&logoColor=white)](https://jarredward.tech)
