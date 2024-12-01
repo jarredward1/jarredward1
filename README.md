@@ -1,6 +1,6 @@
 # Hello, I'm Jarred!
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Ibri.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/WannaCryWolf.png" alt="Your Image Badge" />
 
 [![LetsDefend](https://img.shields.io/badge/LetsDefend-%20-%23006C82?style=for-the-badge&logo=[ld-logo-v2.webp](https://postimg.cc/VdHchkrs)&logoColor=white)](https://app.letsdefend.io/user/ibri)
 <a href="https://linkedin.com/in/jarredward1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
