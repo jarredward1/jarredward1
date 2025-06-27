@@ -1,6 +1,6 @@
 # Hello, I'm Jarred!
 
-<a href="https://tryhackme.com/r/p/WannaCryWolf" target="_blank">
+<a href="https://tryhackme.com/r/p/WannaCry.Wolf" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/WannaCry.Wolf.png" alt="Your Image Badge" />
 </a>
 
