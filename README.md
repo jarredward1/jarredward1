@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&duration=2500&pause=2000&multiline=true&width=1000&height=100&lines=Hello%2C+I'm+Jarred!;Welcome+to+My+IT+and+Cybersecurity+Portfolio!)](https://git.io/typing-svg)    <img src="https://tryhackme-badges.s3.amazonaws.com/WannaCry.Wolf.png" alt="Your Image Badge" />
 </a>
 
-[![LetsDefend](https://img.shields.io/badge/LetsDefend-%20-%23006C82?style=for-the-badge&logo=[ld-logo-v2.webp](https://postimg.cc/VdHchkrs)&logoColor=white)](https://app.letsdefend.io/user/wannacry.wolf)
+[![LetsDefend SOC Simulation](https://img.shields.io/badge/LetsDefend_SOC_Simulation-%20-%23006C82?style=for-the-badge&logo=[ld-logo-v2.webp](https://postimg.cc/VdHchkrs)&logoColor=white)](https://app.letsdefend.io/user/wannacry.wolf)
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/jarredward1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 
