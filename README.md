@@ -6,12 +6,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/)
 
-## Objective
+# Objective
 
 I am a cybersecurity student with a profound interest in technology and a dedication to solving complex problems.
 
 
-## Skills
+# Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +23,7 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
-## Tools
+# Tools
 
 ### Network
 <div>
@@ -45,7 +45,7 @@ I am a cybersecurity student with a profound interest in technology and a dedica
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certificates and Certifications
+# Certificates and Certifications
 <div>
 
 ![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-%20-%2344CC11?style=for-the-badge&logo=google&logoColor=white)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Security+ Certification](https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white)
@@ -53,7 +53,7 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 
 </div>
 
-## Projects
+# Projects
 - Detection Lab
 - SOC Automation Project
 
@@ -61,7 +61,7 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 
 [![Blue Team Level 1 Certification](https://img.shields.io/badge/Blue_Team_Level_1-%20-%23007BFF?style=for-the-badge&logo=security&logoColor=white)](https://www.securityblue.team/certifications/blue-team-level-1#domains)
 
-## Random Dev Quote:
+# Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
