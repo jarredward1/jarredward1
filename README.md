@@ -6,10 +6,50 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/)
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 # Objective
 
 I am a cybersecurity student with a profound interest in technology and a dedication to solving complex problems.
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+# 📃 Certifications
+<div>
+    
+![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-%20-%2344CC11?style=for-the-badge&logo=google&logoColor=white)    
+![Security+ Certification](https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white)
+
+</div>
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 # 💻 Skills
 
@@ -22,6 +62,16 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 # 🧰 Tools
 
@@ -57,22 +107,46 @@ I am a cybersecurity student with a profound interest in technology and a dedica
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-# 📃 Certifications
-<div>
-
-![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-%20-%2344CC11?style=for-the-badge&logo=google&logoColor=white)    
-![Security+ Certification](https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white)
-
-
-</div>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 # 💡 Projects
 - Detection Lab
 - SOC Automation Project
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 # 📚 I'm Currently Learning:</h2>
 
 [![Blue Team Level 1 Certification](https://img.shields.io/badge/Blue_Team_Level_1-%20-%23007BFF?style=for-the-badge&logo=security&logoColor=white)](https://www.securityblue.team/certifications/blue-team-level-1#domains)
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 # Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
