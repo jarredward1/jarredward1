@@ -35,6 +35,7 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 ### Endpoint Detection and Response
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wazuh-026DB3?style=for-the-badge" alt="Wazuh Badge" />
 </div>
 
 ### Security Monitoring and SIEM
