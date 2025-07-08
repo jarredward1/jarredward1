@@ -37,6 +37,7 @@ I am a cybersecurity student with a profound interest in technology and a dedica
     
 ![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-%20-%2344CC11?style=for-the-badge&logo=google&logoColor=white)    
 ![Security+ Certification](https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white)
+![CompTIA Linux+](https://img.shields.io/badge/CompTIA_Linux+-E60028?style=for-the-badge)
 
 </div>
 
