@@ -53,7 +53,7 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 
 # 💻 Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project(s)         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [Created a Live SOC / Honeynet in Azure](https://github.com/jarredward1/Azure-SOC)
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/jarredward1/Detection-Lab">Detection Lab</a>|
@@ -61,6 +61,27 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+# ⌨️ Scripting, Programming, and Database
+
+| Skill                | Associated Project(s)      |
+|----------------------|----------------------------|
+| Python               | [Created a Live SOC / Honeynet in Azure](https://github.com/jarredward1/Azure-SOC)|
+| Bash                 | <a href="https://github.com/jarredward1/Detection-Lab">Detection Lab</a>|
+| Powershell           | SOC Automation Lab|
+| SQL                  | SOC Automation Lab|
+| KQL                  | SOC Automation Lab|
 
 &nbsp;
 &nbsp;
