@@ -25,11 +25,22 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 
 # 🧰 Tools
 
-### Network and Traffic Analysis
+### Scripting, Programming, and Database
+<div>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge" />
+    <img src="https://img.shields.io/badge/KQL-2E8B57?style=for-the-badge" alt="KQL Badge" />
+<div>
+
+### Networking
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Snort-FF4088?style=for-the-badge&logo=snort&logoColor=white" alt="Snort Badge" />
+    <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap Badge" />
+    <img src="https://img.shields.io/badge/tcpdump-222222?style=for-the-badge" alt="tcpdump Badge" />
 </div>
 
 ### Endpoint Detection and Response
@@ -38,11 +49,12 @@ I am a cybersecurity student with a profound interest in technology and a dedica
     <img src="https://img.shields.io/badge/Wazuh-026DB3?style=for-the-badge" alt="Wazuh Badge" />
 </div>
 
-### Security Monitoring and SIEM
+### Cloud and SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Badge" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 # 📃 Certifications
