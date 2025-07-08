@@ -57,7 +57,7 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 - Detection Lab
 - SOC Automation Project
 
-<h2>📚 I'm Currently Learning:</h2>
+# 📚 I'm Currently Learning:</h2>
 
 [![Blue Team Level 1 Certification](https://img.shields.io/badge/Blue_Team_Level_1-%20-%23007BFF?style=for-the-badge&logo=security&logoColor=white)](https://www.securityblue.team/certifications/blue-team-level-1#domains)
 
