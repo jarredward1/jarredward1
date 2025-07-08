@@ -6,12 +6,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/)
 
-              
-              
-
-
-
-
 ## Objective
 
 I am a cybersecurity student with a profound interest in technology and a dedication to solving complex problems.
@@ -21,12 +15,13 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/jarredward1/Detection-Lab">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | [Created a Live SOC / Honeynet in Azure](https://github.com/jarredward1/Azure-SOC)
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/jarredward1/Detection-Lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
