@@ -25,30 +25,30 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 
 # 🧰 Tools
 
-### Network
+### Network and Traffic Analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint Detection and Response
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### Security Monitoring and SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 # 📃 Certifications
 <div>
 
-![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-%20-%2344CC11?style=for-the-badge&logo=google&logoColor=white)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Security+ Certification](https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white)
+![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-%20-%2344CC11?style=for-the-badge&logo=google&logoColor=white)    
+![Security+ Certification](https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white)
 
 
 </div>
