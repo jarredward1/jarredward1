@@ -84,7 +84,8 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 | Bash                 | <a href="https://github.com/jarredward1/Detection-Lab">Detection Lab</a>|
 | Powershell           | SOC Automation Lab|
 | SQL                  | SOC Automation Lab|
-| KQL                  | SOC Automation Lab|
+| KQL (Kusto)          | SOC Automation Lab|
+| KQL (Kibana)         | SOC Automation Lab|
 
 &nbsp;
 &nbsp;
