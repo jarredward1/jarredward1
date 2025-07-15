@@ -160,7 +160,7 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 
 # 📚 I'm Currently Learning:</h2>
 
-[![Blue Team Level 1 Certification](https://img.shields.io/badge/Blue_Team_Level_1-%20-%23007BFF?style=for-the-badge&logo=security&logoColor=white)](https://www.securityblue.team/certifications/blue-team-level-1#domains)
+[![RHCSA Certified](https://img.shields.io/badge/Red%20Hat%20Certified%20System%20Administrator-RHCSA-red?logo=redhat&logoColor=white&style=for-the-badge)](https://www.redhat.com/en/services/certification/rhcsa)
 
 &nbsp;
 &nbsp;
