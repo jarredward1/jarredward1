@@ -60,7 +60,7 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [Created a Live SOC / Honeynet in Azure](https://github.com/jarredward1/Azure-SOC)
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/jarredward1/Detection-Lab">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Systems Administration                        | [Deployed a Network Load Balancer on Server 2019 ](https://github.com/jarredward1/Azure-SOC)|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Malware Analysis                              | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
