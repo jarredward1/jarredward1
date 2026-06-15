@@ -35,8 +35,14 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 &nbsp;
 
 # 💡 Projects
-- Detection Lab
-- SOC Automation Project
+
+| Skill                                         | Associated Project(s)         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | [Created a Live SOC / Honeynet in Azure](https://github.com/jarredward1/Azure-SOC)
+| Systems Administration                        | [Deployed a Network Load Balancer on Server 2019](https://github.com/jarredward1/Server_2019-NLB)|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Malware Analysis                              | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 &nbsp;
 &nbsp;
@@ -57,50 +63,6 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 ![CompTIA Network+](https://img.shields.io/badge/Comptia%20Network+-FF0000?style=for-the-badge&logo=compTIA&logoColor=white)
 
 </div>
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-# 💻 Skills
-
-| Skill                                         | Associated Project(s)         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [Created a Live SOC / Honeynet in Azure](https://github.com/jarredward1/Azure-SOC)
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/jarredward1/Detection-Lab">Detection Lab</a>|
-| Systems Administration                        | [Deployed a Network Load Balancer on Server 2019](https://github.com/jarredward1/Server_2019-NLB)|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Malware Analysis                              | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-# ⌨️ Scripting, Programming, and Database
-
-| Skill                | Associated Project(s)      |
-|----------------------|----------------------------|
-| Python               | [Created a Live SOC / Honeynet in Azure](https://github.com/jarredward1/Azure-SOC)|
-| Bash                 | <a href="https://github.com/jarredward1/Detection-Lab">Detection Lab</a>|
-| Powershell           | SOC Automation Lab|
-| SQL                  | SOC Automation Lab|
-| KQL (Kusto)          | SOC Automation Lab|
-| KQL (Kibana)         | SOC Automation Lab|
 
 &nbsp;
 &nbsp;
