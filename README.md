@@ -40,7 +40,8 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 |-------------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis            | [Created a Live SOC / Honeynet in Azure](https://github.com/jarredward1/Azure-SOC)
 | Systems Administration                          | [Deployed a Network Load Balancer in Server 2019](https://github.com/jarredward1/Server_2019-NLB)
-| Governnance, Risk, and Compliance (GRC)         | [Corporate Cybersecurity Assessment Utilizing NIST Cybersecurity Framework (CSF) 2.0](https://github.com/jarredward1/GRC-Analyst-Project)|
+| Governnance, Risk, and Compliance (GRC)         | [Corporate Cybersecurity Assessment Utilizing NIST Cybersecurity Framework (CSF) 2.0](https://github.com/jarredward1/GRC-Analyst-Project)
+| Vulnerability Management                        | [Implemented a Full Vulnerability Management Program]()
 
 &nbsp;
 &nbsp;
