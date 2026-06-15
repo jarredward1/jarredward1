@@ -2,7 +2,7 @@
 
 &nbsp; 
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/WannaCry.Wolf.png)](https://tryhackme.com/p/WannaCry.Wolf)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/WannaCry.Wolf.png)](https://tryhackme.com/p/JarredWard)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LetsDefend Profile](https://img.shields.io/badge/LetsDefend_SOC-Jarred_Ward-007bff?style=for-the-badge&logo=letsdefend)](https://app.letsdefend.io/user/WannaCryWolf)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
