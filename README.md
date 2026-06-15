@@ -19,8 +19,6 @@
 &nbsp;
 &nbsp;
 
-# Objective
-
 I am a cybersecurity student with a profound interest in technology and a dedication to solving complex problems.
 
 &nbsp;
