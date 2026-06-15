@@ -34,6 +34,21 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 &nbsp;
 &nbsp;
 
+# 💡 Projects
+- Detection Lab
+- SOC Automation Project
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 # 📃 Certifications
 <div>
     
@@ -131,21 +146,6 @@ I am a cybersecurity student with a profound interest in technology and a dedica
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-# 💡 Projects
-- Detection Lab
-- SOC Automation Project
 
 &nbsp;
 &nbsp;
