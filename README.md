@@ -55,9 +55,9 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 # 📃 Certifications
 <div>
     
-- Google Cybersecurity Certificate 
-- Security+ Certification
-- CompTIA Network+
+### - Google Cybersecurity Certificate
+### - CompTIA Security+
+### - CompTIA Network+
 
 </div>
 
@@ -119,8 +119,8 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 
 # 📚 I'm Currently Learning:</h2>
 
-- Microsoft Certified: Security Operations Analyst Associate (SC-200)
-- edX Computer Science for Artificial Intelligence (Harvardx)
+### - Microsoft Certified: Security Operations Analyst Associate (SC-200)
+### - edX Computer Science for Artificial Intelligence (Harvardx)
 
 &nbsp;
 &nbsp;
