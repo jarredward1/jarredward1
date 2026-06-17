@@ -130,7 +130,7 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 &nbsp;
 &nbsp;
 
-# 📚 I'm Currently Learning:</h2>
+# 📚 I'm Currently Studying:</h2>
 
 ### - Microsoft Certified: Security Operations Analyst Associate (SC-200)
 ### - edX Computer Science for Artificial Intelligence (Harvardx)
