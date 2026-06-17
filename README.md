@@ -36,25 +36,25 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 
 ## Governance, Risk, and Compliance (GRC)
 
-### [Corporate Cybersecurity Assessment Utilizing NIST Cybersecurity Framework (CSF) 2.0](https://github.com/jarredward1/GRC-Analyst-Project)
+**[Corporate Cybersecurity Assessment Utilizing NIST Cybersecurity Framework (CSF) 2.0](https://github.com/jarredward1/GRC-Analyst-Project)**
   - Conducted a comprehensive cybersecurity assessment using the NIST CSF 2.0.
   - Identified security gaps and provided risk-based recommendations.
 
 ## Vulnerability Management
 
-### [Full Vulnerability Management Program Implementation](https://github.com/jarredward1/Vulnerability-Management-Program/tree/main)
+**[Full Vulnerability Management Program Implementation](https://github.com/jarredward1/Vulnerability-Management-Program/tree/main)**
   - Designed and implemented an end-to-end vulnerability management process.
   - Performed asset discovery, vulnerability scanning, prioritization, remediation tracking, and reporting.
 
 ## Security Operations (SOC)
 
-### [Live SOC & Honeynet in Azure: Attacking and Remediating it (Live Traffic)](https://github.com/jarredward1/Azure-SOC)
+**[Live SOC & Honeynet in Azure: Attacking and Remediating it (Live Traffic)](https://github.com/jarredward1/Azure-SOC)**
   - Built and monitored a cloud-based SOC environment.
   - Investigated real attack telemetry and implemented remediation controls.
 
 ## Systems Administration
 
-### [Deploying a Network Load Balancer in Server 2019](https://github.com/jarredward1/Server_2019-NLB)
+**[Deploying a Network Load Balancer in Server 2019](https://github.com/jarredward1/Server_2019-NLB)**
   - Configured a two-node Network Load Balancing cluster using Windows Server 2019.
   - Integrated IIS, Active Directory, and load-balanced web services.
 
