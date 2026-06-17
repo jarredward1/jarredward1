@@ -55,9 +55,9 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 # 📃 Certifications
 <div>
     
-![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-%20-%2344CC11?style=for-the-badge&logo=google&logoColor=white)    
-![Security+ Certification](https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white)
-![CompTIA Network+](https://img.shields.io/badge/Comptia%20Network+-FF0000?style=for-the-badge&logo=compTIA&logoColor=white)
+- Google Cybersecurity Certificate 
+- Security+ Certification
+- CompTIA Network+
 
 </div>
 
@@ -119,7 +119,8 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 
 # 📚 I'm Currently Learning:</h2>
 
-[![RHCSA Certified](https://img.shields.io/badge/Red%20Hat%20Certified%20System%20Administrator-RHCSA-red?logo=redhat&logoColor=white&style=for-the-badge)](https://www.redhat.com/en/services/certification/rhcsa)
+- Microsoft Certified: Security Operations Analyst Associate (SC-200)
+- edX Computer Science for Artificial Intelligence (Harvardx)
 
 &nbsp;
 &nbsp;
