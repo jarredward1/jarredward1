@@ -28,27 +28,27 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
 
 ## Governance, Risk, and Compliance (GRC)
 
-- **[Corporate Cybersecurity Assessment Utilizing NIST Cybersecurity Framework (CSF) 2.0](https://github.com/jarredward1/GRC-Analyst-Project)**
-- **[Enterprise Security Program Utilizing NIST SP 800-53 and PCI DSS](https://github.com/jarredward1/Enterprise-Security-Plan/blob/main/README.md)**
-- **[Cybersecurity Risk Assessment Utilizing NIST SP 800-37 and PCI DSS](https://github.com/jarredward1/Cybersecurity-Risk-Assessment)**
-- **[PCI DSS Audit Utilizing SAQ D and Merchant Level 2 Scoping](https://github.com/jarredward1/PCI-DSS-Audit)**
+- **[Security Posture Assessment & Gap Analysis (NIST CSF 2.0)](https://github.com/jarredward1/GRC-Analyst-Project)**
+- **[Enterprise Security Program: Policies, Standards & Procedures (NIST SP 800-53, PCI DSS)](https://github.com/jarredward1/Enterprise-Security-Plan/blob/main/README.md)**
+- **[Enterprise Risk Assessment & Risk Register (NIST SP 800-37, PCI DSS)](https://github.com/jarredward1/Cybersecurity-Risk-Assessment)**
+- **[End-to-End PCI DSS Compliance Audit (SAQ D, Merchant Level 2)](https://github.com/jarredward1/PCI-DSS-Audit)**
 
 
 ## Vulnerability Management
 
-- **[Full Vulnerability Management Program Implementation](https://github.com/jarredward1/Vulnerability-Management-Program/tree/main)**
+- **[Vulnerability Management Program: Scanning to Remediation](https://github.com/jarredward1/Vulnerability-Management-Program/tree/main)**
 
 
 ## Security Operations (SOC)
 
-- **[Live SOC & Honeynet in Azure: Attacking and Remediating it (Live Traffic)](https://github.com/jarredward1/Azure-SOC)**
+- **[Azure SOC & Honeynet: Live Attack Detection & Remediation](https://github.com/jarredward1/Azure-SOC)**
 
 
 ## Systems Administration and Networking
 
-- **[Deploying a Network Load Balancer in Server 2019](https://github.com/jarredward1/Server_2019-NLB)**
-- **[WordPress Proof of Concept Deployment (LAMP Stack / Docker / NginX)](https://github.com/jarredward1/WordPress-Proof-of-Concept)**
-- **[Enterprise Network System Implementation](https://github.com/jarredward1/Network-System-Implementation)**
+- **[Network Load Balancing Cluster Deployment (Windows Server 2019)](https://github.com/jarredward1/Server_2019-NLB)**
+- **[WordPress Deployment: LAMP, Docker & NginX](https://github.com/jarredward1/WordPress-Proof-of-Concept)**
+- **[Enterprise Network Design & Implementation](https://github.com/jarredward1/Network-System-Implementation)**
 
 &nbsp;
 &nbsp;
