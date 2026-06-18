@@ -13,8 +13,6 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/)
 &nbsp;
 [![LetsDefend](https://img.shields.io/badge/LetsDefend-1C7ED6?style=for-the-badge)](https://app.letsdefend.io/user/JarredWard)
-&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=jarredward1&label=Visitors&color=brightgreen&style=for-the-badge)
 
 </div>
 
