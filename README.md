@@ -33,7 +33,7 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
 ## Governance, Risk, and Compliance (GRC)
 
 - **[Corporate Cybersecurity Assessment Utilizing NIST Cybersecurity Framework (CSF) 2.0](https://github.com/jarredward1/GRC-Analyst-Project)**
-- **[Enterprise Security Plan Utilizing NIST SP 800-53 and PCI DSS](https://github.com/jarredward1/Enterprise-Security-Plan/blob/main/README.md)**
+- **[Enterprise Security Program Utilizing NIST SP 800-53 and PCI DSS](https://github.com/jarredward1/Enterprise-Security-Plan/blob/main/README.md)**
 - **[Cybersecurity Risk Assessment Utilizing NIST SP 800-37 and PCI DSS](https://github.com/jarredward1/Cybersecurity-Risk-Assessment)**
 
 
