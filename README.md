@@ -47,10 +47,11 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
 - **[Live SOC & Honeynet in Azure: Attacking and Remediating it (Live Traffic)](https://github.com/jarredward1/Azure-SOC)**
 
 
-## Systems Administration
+## Systems Administration and Networking
 
 - **[Deploying a Network Load Balancer in Server 2019](https://github.com/jarredward1/Server_2019-NLB)**
 - **[WordPress Proof of Concept Deployment (LAMP Stack / Docker / NginX)](https://github.com/jarredward1/WordPress-Proof-of-Concept)**
+- **[Enterprise Network System Implementation](https://github.com/jarredward1/Network-System-Implementation)**
 
 &nbsp;
 &nbsp;
