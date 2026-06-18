@@ -156,7 +156,7 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 &nbsp;
 &nbsp;
 
-# Random Dev Quote:
+# Random Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
