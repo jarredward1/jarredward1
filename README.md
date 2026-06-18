@@ -35,6 +35,7 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
 - **[Corporate Cybersecurity Assessment Utilizing NIST Cybersecurity Framework (CSF) 2.0](https://github.com/jarredward1/GRC-Analyst-Project)**
 - **[Enterprise Security Program Utilizing NIST SP 800-53 and PCI DSS](https://github.com/jarredward1/Enterprise-Security-Plan/blob/main/README.md)**
 - **[Cybersecurity Risk Assessment Utilizing NIST SP 800-37 and PCI DSS](https://github.com/jarredward1/Cybersecurity-Risk-Assessment)**
+- **[PCI DSS Audit Utilizing SAQ D and Merchant Level 2 Scoping](https://github.com/jarredward1/PCI-DSS-Audit)**
 
 
 ## Vulnerability Management
