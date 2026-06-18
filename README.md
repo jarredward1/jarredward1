@@ -2,20 +2,20 @@
 
 &nbsp; 
 
+Cybersecurity professional skilled in risk assessment, compliance, threat detection, endpoint security, and cloud infrastructure. Comfortable across the full security stack, from policy to technical controls. Security+ | Network+ | SC-200 in progress.
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/)
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-I am a cybersecurity student with a profound interest in technology and a dedication to solving complex problems.
 
 &nbsp;
 &nbsp;
