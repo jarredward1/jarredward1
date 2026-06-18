@@ -142,8 +142,8 @@ I am a cybersecurity student with a profound interest in technology and a dedica
 
 # 📚 I'm Currently Studying:</h2>
 
-### - Microsoft Certified: Security Operations Analyst Associate (SC-200)
-### - edX Computer Science for Artificial Intelligence (Harvardx)
+### - Microsoft Certified: Security Operations Analyst Associate (SC-200) - Expected September 2026
+### - edX Computer Science for Artificial Intelligence (Harvardx) - Expected November 2026
 
 &nbsp;
 &nbsp;
