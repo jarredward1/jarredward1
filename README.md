@@ -50,7 +50,7 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
 ## Systems Administration
 
 - **[Deploying a Network Load Balancer in Server 2019](https://github.com/jarredward1/Server_2019-NLB)**
-
+- **[WordPress Proof of Concept Deployment (LAMP Stack / Docker / NginX)](https://github.com/jarredward1/WordPress-Proof-of-Concept)**
 
 &nbsp;
 &nbsp;
@@ -119,12 +119,13 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
     <img src="https://img.shields.io/badge/Wazuh-026DB3?style=for-the-badge" alt="Wazuh Badge" />
 </div>
 
-### Cloud and SIEM
+### Cloud, SIEM, and Containers
 <div>
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Badge" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
 </div>
 
 &nbsp;
