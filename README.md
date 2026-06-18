@@ -7,13 +7,6 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 <div align="center">
 
@@ -27,13 +20,6 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
 
 </div>
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
@@ -67,30 +53,16 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 # 📃 Certifications
 <div>
-    
+
 ### - Google Cybersecurity Certificate
 ### - CompTIA Security+
 ### - CompTIA Network+
 
 </div>
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
@@ -105,7 +77,7 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
     <img src="https://img.shields.io/badge/-HIPAA-AD1457?&style=for-the-badge&logo=heartbeat&logoColor=white" />
     <img src="https://img.shields.io/badge/-CMMC-1E88E5?&style=for-the-badge&logo=shield&logoColor=white" />
     <img src="https://img.shields.io/badge/-SOX-5E35B1?&style=for-the-badge&logo=ledger&logoColor=white" />
-<div>
+</div>
 
 ### Scripting, Programming, and Database
 <div>
@@ -113,7 +85,7 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
     <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge" />
     <img src="https://img.shields.io/badge/KQL-2E8B57?style=for-the-badge" alt="KQL Badge" />
-<div>
+</div>
 
 ### Networking
 <div>
@@ -143,15 +115,8 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
-# 📚 I'm Currently Studying:</h2>
+# 📚 I'm Currently Studying:
 
 ### - Microsoft Certified: Security Operations Analyst Associate (SC-200) - Expected September 2026
 ### - edX Computer Science for Artificial Intelligence (Harvardx) - Expected November 2026
@@ -159,14 +124,5 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
