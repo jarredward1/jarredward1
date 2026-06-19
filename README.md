@@ -11,8 +11,6 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/)
-&nbsp;
-[![LetsDefend](https://img.shields.io/badge/LetsDefend-1C7ED6?style=for-the-badge)](https://app.letsdefend.io/user/JarredWard)
 
 </div>
 
