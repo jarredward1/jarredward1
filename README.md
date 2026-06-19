@@ -52,8 +52,8 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
 <div>
 
 ### - Google Cybersecurity Certificate
-### - CompTIA Security+
 ### - CompTIA Network+
+### - CompTIA Security+
 
 </div>
 
