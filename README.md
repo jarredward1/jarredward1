@@ -32,11 +32,6 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
 - **[Vulnerability Management Program: Scanning to Remediation](https://github.com/jarredward1/Vulnerability-Management-Program/tree/main)**
 
 
-## Security Operations (SOC)
-
-- **[Azure SOC & Honeynet: Live Attack Detection & Remediation](https://github.com/jarredward1/Azure-SOC)**
-
-
 ## Systems Administration and Networking
 
 - **[Network Load Balancing Cluster Deployment (Windows Server 2019)](https://github.com/jarredward1/Server_2019-NLB)**
