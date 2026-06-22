@@ -80,16 +80,6 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
     <a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query"><img src="https://img.shields.io/badge/KQL-2E8B57?style=for-the-badge" /></a>
 </div>
 
-### Networking
-<div>
-    <a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
-    <a href="https://suricata.io"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /></a>
-    <a href="https://zeek.org"><img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /></a>
-    <a href="https://www.snort.org"><img src="https://img.shields.io/badge/Snort-FF4088?style=for-the-badge&logo=snort&logoColor=white" /></a>
-    <a href="https://nmap.org"><img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" /></a>
-    <a href="https://www.tcpdump.org"><img src="https://img.shields.io/badge/tcpdump-222222?style=for-the-badge" /></a>
-</div>
-
 ### Endpoint Detection and Response
 <div>
     <a href="https://learn.microsoft.com/en-us/defender-endpoint"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
