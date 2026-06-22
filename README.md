@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&duration=2500&pause=1000&multiline=true&width=1000&height=100&center=true&lines=Hello%2C+I'm+Jarred!;Welcome+to+My+IT+and+Cybersecurity+Portfolio!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&duration=2500&pause=1000&multiline=true&width=1000&height=100&center=true&lines=Hello%2C+I'm+Jarred!;Welcome+to+My+Cybersecurity+Portfolio!)
 
 &nbsp; 
 
