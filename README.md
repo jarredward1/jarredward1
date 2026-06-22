@@ -33,12 +33,6 @@ Cybersecurity professional skilled in risk assessment, compliance, threat detect
 - **[Vulnerability Management Program: Scanning to Remediation](https://github.com/jarredward1/Vulnerability-Management-Program/tree/main)**
 
 
-## Systems Administration and Networking
-
-- **[Network Load Balancing Cluster Deployment (Windows Server 2019)](https://github.com/jarredward1/Server_2019-NLB)**
-- **[WordPress Deployment: LAMP, Docker & NginX](https://github.com/jarredward1/WordPress-Proof-of-Concept)**
-- **[Enterprise Network Design & Implementation](https://github.com/jarredward1/Network-System-Implementation)**
-
 &nbsp;
 &nbsp;
 &nbsp;
