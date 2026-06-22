@@ -52,38 +52,27 @@ Cybersecurity professional focused on Governance, Risk, and Compliance (GRC) and
 &nbsp;
 
 # 🧰 Tools
-### Governance & Compliance
+### Governance, Risk & Compliance
 <div>
     <a href="https://www.nist.gov/cyberframework"><img src="https://img.shields.io/badge/-NIST-1565C0?&style=for-the-badge&logo=nist&logoColor=white" /></a>
     <a href="https://www.iso.org/standard/27001"><img src="https://img.shields.io/badge/-ISO_27001-455A64?&style=for-the-badge&logo=iso&logoColor=white" /></a>
-    <a href="https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2"><img src="https://img.shields.io/badge/-SOC_2-283593?&style=for-the-badge&logo=datadog&logoColor=white" /></a>
     <a href="https://www.pcisecuritystandards.org"><img src="https://img.shields.io/badge/-PCI_DSS-00838F?&style=for-the-badge&logo=visa&logoColor=white" /></a>
-    <a href="https://www.hhs.gov/hipaa/index.html"><img src="https://img.shields.io/badge/-HIPAA-AD1457?&style=for-the-badge&logo=heartbeat&logoColor=white" /></a>
-    <a href="https://dodcio.defense.gov/CMMC"><img src="https://img.shields.io/badge/-CMMC-1E88E5?&style=for-the-badge&logo=shield&logoColor=white" /></a>
-    <a href="https://www.sec.gov/spotlight/sarbanes-oxley.htm"><img src="https://img.shields.io/badge/-SOX-5E35B1?&style=for-the-badge&logo=ledger&logoColor=white" /></a>
+    <a href="https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2"><img src="https://img.shields.io/badge/-SOC_2-283593?&style=for-the-badge&logo=datadog&logoColor=white" /></a>
+    <a href="https://www.servicenow.com/products/governance-risk-and-compliance.html"><img src="https://img.shields.io/badge/-ServiceNow_GRC-62D84E?&style=for-the-badge&logo=servicenow&logoColor=white" /></a>
 </div>
 
-### Scripting, Programming, and Database
+### Vulnerability Management
 <div>
-    <a href="https://www.gnu.org/software/bash"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
-    <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-    <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-    <a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query"><img src="https://img.shields.io/badge/KQL-2E8B57?style=for-the-badge" /></a>
-</div>
-
-### Endpoint Detection and Response
-<div>
-    <a href="https://learn.microsoft.com/en-us/defender-endpoint"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-    <a href="https://wazuh.com"><img src="https://img.shields.io/badge/Wazuh-026DB3?style=for-the-badge" /></a>
-</div>
-
-### Cloud, SIEM, and Containers
-<div>
+    <a href="https://www.tenable.com"><img src="https://img.shields.io/badge/-Tenable-1565C0?&style=for-the-badge&logo=tenable&logoColor=white" /></a>
     <a href="https://azure.microsoft.com"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
     <a href="https://learn.microsoft.com/en-us/azure/sentinel"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-    <a href="https://www.splunk.com"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
-    <a href="https://www.elastic.co"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
-    <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+    <a href="https://learn.microsoft.com/en-us/defender-vulnerability-management"><img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+</div>
+
+### Scripting & Query
+<div>
+    <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+    <a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query"><img src="https://img.shields.io/badge/KQL-2E8B57?style=for-the-badge" /></a>
 </div>
 
 &nbsp;
