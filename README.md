@@ -44,6 +44,7 @@ Cybersecurity professional focused on Governance, Risk, and Compliance (GRC) and
 ### - Google Cybersecurity Certificate
 ### - CompTIA Network+
 ### - CompTIA Security+
+### - Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 
 </div>
 
@@ -81,8 +82,7 @@ Cybersecurity professional focused on Governance, Risk, and Compliance (GRC) and
 
 # 📚 I'm Currently Studying:
 
-### - Microsoft Certified: Security Operations Analyst Associate (SC-200) - Expected September 2026
-### - edX Computer Science for Artificial Intelligence (Harvardx) - Expected November 2026
+### - Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500) - Expected November 2026
 
 &nbsp;
 &nbsp;
