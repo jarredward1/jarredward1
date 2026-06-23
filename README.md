@@ -34,6 +34,18 @@ Cybersecurity professional focused on Governance, Risk, and Compliance (GRC) and
 - **[Vulnerability Management Program: Scanning to Remediation](https://github.com/jarredward1/vulnerability-management-program/tree/main)**
 
 
+## Security Operations
+
+- **[Azure SOC & Honeynet: Live Attack Detection & Remediation](https://github.com/jarredward1/azure-soc)**
+
+
+## Network & Systems Administration
+
+- **[Enterprise Network Design & Implementation](https://github.com/jarredward1/enterprise-network-system-implementation)**
+- **[Network Load Balancing Cluster Deployment (Windows Server 2019)](https://github.com/jarredward1/server-2019-nlb)**
+- **[WordPress Deployment: LAMP, Docker & NginX](https://github.com/jarredward1/wordpress-proof-of-concept)**
+
+
 &nbsp;
 &nbsp;
 &nbsp;
