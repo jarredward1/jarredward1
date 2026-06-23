@@ -23,15 +23,15 @@ Cybersecurity professional focused on Governance, Risk, and Compliance (GRC) and
 
 ## Governance, Risk, and Compliance (GRC)
 
-- **[Enterprise Security Program: Policies, Standards & Procedures (NIST SP 800-53, PCI DSS)](https://github.com/jarredward1/Enterprise-Security-Plan/blob/main/README.md)**
-- **[Enterprise Risk Assessment & Risk Register (NIST SP 800-37, PCI DSS)](https://github.com/jarredward1/Cybersecurity-Risk-Assessment)**
-- **[End-to-End PCI DSS Compliance Audit (SAQ D, Merchant Level 2)](https://github.com/jarredward1/PCI-DSS-Audit)**
-- **[Security Posture Assessment & Gap Analysis (NIST CSF 2.0)](https://github.com/jarredward1/GRC-Analyst-Project)**
+- **[Enterprise Security Program: Policies, Standards & Procedures (NIST SP 800-53, PCI DSS)](https://github.com/jarredward1/enterprise-security-program/blob/main/README.md)**
+- **[Enterprise Risk Assessment & Risk Register (NIST SP 800-37, PCI DSS)](https://github.com/jarredward1/cybersecurity-risk-assessment)**
+- **[End-to-End PCI DSS Compliance Audit (SAQ D, Merchant Level 2)](https://github.com/jarredward1/pci-dss-audit)**
+- **[Security Posture Assessment & Gap Analysis (NIST CSF 2.0)](https://github.com/jarredward1/grc-analyst-project)**
 
 
 ## Vulnerability Management
 
-- **[Vulnerability Management Program: Scanning to Remediation](https://github.com/jarredward1/Vulnerability-Management-Program/tree/main)**
+- **[Vulnerability Management Program: Scanning to Remediation](https://github.com/jarredward1/vulnerability-management-program/tree/main)**
 
 
 &nbsp;
