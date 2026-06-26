@@ -24,7 +24,7 @@ Cybersecurity professional focused on Governance, Risk, and Compliance (GRC) and
 ## Governance, Risk, and Compliance (GRC)
 
 - **[Enterprise Security Program: Policies, Standards & Procedures (NIST SP 800-53, PCI DSS)](https://github.com/jarredward1/enterprise-security-program)**
-- **[Enterprise Risk Assessment & Risk Register (NIST SP 800-37, PCI DSS)](https://github.com/jarredward1/cybersecurity-risk-assessment)**
+- **[Enterprise Risk Assessment (NIST SP 800-37, PCI DSS)](https://github.com/jarredward1/cybersecurity-risk-assessment)**
 - **[End-to-End PCI DSS Compliance Audit (SAQ D, Merchant Level 2)](https://github.com/jarredward1/pci-dss-audit)**
 - **[Security Posture Assessment & Gap Analysis (NIST CSF 2.0)](https://github.com/jarredward1/grc-analyst-project)**
 
