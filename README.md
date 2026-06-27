@@ -2,7 +2,7 @@
 
 &nbsp; 
 
-Cybersecurity professional focused on Governance, Risk, and Compliance (GRC) and vulnerability management. Experienced applying NIST CSF 2.0, NIST SP 800-53, NIST SP 800-37, PCI DSS, and ISO 27001 to real organizational risk scenarios. Skilled in translating technical findings into business risk, building remediation pipelines, and producing audit-ready documentation.
+I am a vulnerability management and GRC professional with hands-on experience applying NIST CSF 2.0, NIST SP 800-53, NIST SP 800-37, PCI DSS, and ISO 27001 to real organizational risk scenarios. I am skilled in translating technical findings into business risk, building remediation pipelines, and producing audit-ready documentation.
 
 
 &nbsp;
