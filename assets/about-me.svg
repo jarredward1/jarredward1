@@ -1,4 +1,4 @@
-<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="480" viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#A9FEF7"/>
@@ -9,6 +9,9 @@
       <stop offset="0%" stop-color="#A9FEF7"/>
       <stop offset="100%" stop-color="#A78BFA"/>
     </linearGradient>
+    <pattern id="diagLinesAbout" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="14" stroke="#A9FEF7" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
     <style>
       .bg { fill: #0d1117; }
       .card { fill: #11151c; stroke: url(#borderGrad); stroke-width: 1.5; rx: 16; }
@@ -19,44 +22,45 @@
     </style>
   </defs>
 
-  <rect class="bg" width="900" height="420" rx="20"/>
-  <rect class="card" x="6" y="6" width="888" height="408" rx="16" fill="none"/>
+  <rect class="bg" width="900" height="480" rx="20"/>
+  <rect width="900" height="480" rx="20" fill="url(#diagLinesAbout)"/>
+  <rect class="card" x="6" y="6" width="888" height="468" rx="16" fill="none"/>
 
   <text x="40" y="55" class="title">About Me</text>
 
   <!-- Row 1 -->
-  <rect class="row" x="32" y="78" width="836" height="48"/>
-  <circle cx="60" cy="102" r="6" fill="#3FB950"/>
-  <text x="84" y="96" class="label" fill="#7EE787">Currently working on</text>
-  <text x="84" y="116" class="value">Building out my vulnerability management &amp; GRC project portfolio</text>
+  <rect class="row" x="36" y="84" width="828" height="48"/>
+  <circle cx="64" cy="108" r="6" fill="#3FB950"/>
+  <text x="88" y="102" class="label" fill="#7EE787">Currently working on</text>
+  <text x="88" y="122" class="value">Building out my vulnerability management &amp; GRC project portfolio</text>
 
   <!-- Row 2 -->
-  <rect class="row" x="32" y="134" width="836" height="48"/>
-  <circle cx="60" cy="158" r="6" fill="#A78BFA"/>
-  <text x="84" y="152" class="label" fill="#C4B5FD">Currently learning</text>
-  <text x="84" y="172" class="value">Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)</text>
+  <rect class="row" x="36" y="146" width="828" height="48"/>
+  <circle cx="64" cy="170" r="6" fill="#A78BFA"/>
+  <text x="88" y="164" class="label" fill="#C4B5FD">Currently learning</text>
+  <text x="88" y="184" class="value">Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)</text>
 
   <!-- Row 3 -->
-  <rect class="row" x="32" y="190" width="836" height="48"/>
-  <circle cx="60" cy="214" r="6" fill="#58A6FF"/>
-  <text x="84" y="208" class="label" fill="#79C0FF">Looking to collaborate on</text>
-  <text x="84" y="228" class="value">Vulnerability management and GRC automation</text>
+  <rect class="row" x="36" y="208" width="828" height="48"/>
+  <circle cx="64" cy="232" r="6" fill="#58A6FF"/>
+  <text x="88" y="226" class="label" fill="#79C0FF">Looking to collaborate on</text>
+  <text x="88" y="246" class="value">Vulnerability management and GRC automation</text>
 
   <!-- Row 4 -->
-  <rect class="row" x="32" y="246" width="836" height="48"/>
-  <circle cx="60" cy="270" r="6" fill="#F2CC60"/>
-  <text x="84" y="264" class="label" fill="#F2CC60">Ask me about</text>
-  <text x="84" y="284" class="value">Vulnerability management, GRC, NIST</text>
+  <rect class="row" x="36" y="270" width="828" height="48"/>
+  <circle cx="64" cy="294" r="6" fill="#F2CC60"/>
+  <text x="88" y="288" class="label" fill="#F2CC60">Ask me about</text>
+  <text x="88" y="308" class="value">Vulnerability management, GRC, NIST</text>
 
   <!-- Row 5 -->
-  <rect class="row" x="32" y="302" width="836" height="48"/>
-  <circle cx="60" cy="326" r="6" fill="#F783AC"/>
-  <text x="84" y="320" class="label" fill="#F783AC">Reach me at</text>
-  <text x="84" y="340" class="value">Ward_official@protonmail.com</text>
+  <rect class="row" x="36" y="332" width="828" height="48"/>
+  <circle cx="64" cy="356" r="6" fill="#F783AC"/>
+  <text x="88" y="350" class="label" fill="#F783AC">Reach me at</text>
+  <text x="88" y="370" class="value">Ward_official@protonmail.com</text>
 
   <!-- Row 6 -->
-  <rect class="row" x="32" y="358" width="836" height="48"/>
-  <circle cx="60" cy="382" r="6" fill="#7EE787"/>
-  <text x="84" y="376" class="label" fill="#7EE787">Fun fact</text>
-  <text x="84" y="396" class="value">I have over 300 books and can tell you exactly where any one of them is on the shelf.</text>
+  <rect class="row" x="36" y="394" width="828" height="48"/>
+  <circle cx="64" cy="418" r="6" fill="#7EE787"/>
+  <text x="88" y="412" class="label" fill="#7EE787">Fun fact</text>
+  <text x="88" y="432" class="value">I have over 300 books and can tell you exactly where any one of them is on the shelf.</text>
 </svg>
