@@ -1,0 +1,49 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A9FEF7"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#F472B6"/>
+    </linearGradient>
+    <linearGradient id="titleGrad4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A9FEF7"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <style>
+      .bg4 { fill: #0d1117; }
+      .title4 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 30px; font-weight: 700; fill: url(#titleGrad4); }
+      .label4 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; font-weight: 600; fill: #c9d1d9; }
+      .tag { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; font-weight: 700; }
+      .row4 { fill: #161b22; stroke: #30363d; stroke-width: 1; rx: 10; }
+    </style>
+  </defs>
+
+  <rect class="bg4" width="900" height="280" rx="20"/>
+  <rect x="6" y="6" width="888" height="268" rx="16" fill="none" stroke="url(#borderGrad4)" stroke-width="1.5"/>
+
+  <text x="40" y="55" class="title4">Certifications</text>
+
+  <rect class="row4" x="32" y="78" width="836" height="42"/>
+  <circle cx="60" cy="99" r="6" fill="#7EE787"/>
+  <text x="84" y="104" class="label4">Google Cybersecurity Certificate</text>
+  <rect x="700" y="86" width="148" height="26" rx="13" fill="#0d2818" stroke="#3FB950"/>
+  <text x="774" y="103" class="tag" fill="#7EE787" text-anchor="middle">EARNED</text>
+
+  <rect class="row4" x="32" y="126" width="836" height="42"/>
+  <circle cx="60" cy="147" r="6" fill="#7EE787"/>
+  <text x="84" y="152" class="label4">CompTIA Network+</text>
+  <rect x="700" y="134" width="148" height="26" rx="13" fill="#0d2818" stroke="#3FB950"/>
+  <text x="774" y="151" class="tag" fill="#7EE787" text-anchor="middle">EARNED</text>
+
+  <rect class="row4" x="32" y="174" width="836" height="42"/>
+  <circle cx="60" cy="195" r="6" fill="#7EE787"/>
+  <text x="84" y="200" class="label4">CompTIA Security+</text>
+  <rect x="700" y="182" width="148" height="26" rx="13" fill="#0d2818" stroke="#3FB950"/>
+  <text x="774" y="199" class="tag" fill="#7EE787" text-anchor="middle">EARNED</text>
+
+  <rect class="row4" x="32" y="222" width="836" height="42"/>
+  <circle cx="60" cy="243" r="6" fill="#7EE787"/>
+  <text x="84" y="248" class="label4">Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)</text>
+  <rect x="700" y="230" width="148" height="26" rx="13" fill="#0d2818" stroke="#3FB950"/>
+  <text x="774" y="247" class="tag" fill="#7EE787" text-anchor="middle">EARNED</text>
+</svg>
