@@ -7,7 +7,7 @@
     </linearGradient>
     <style>
       .bg { fill: #0d1117; }
-      .cat { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 1px; fill: #A78BFA; }
+      .cat { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 1px; fill: #58A6FF; }
       .title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #e6edf3; }
       .desc { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12.5px; fill: #9aa4b2; }
       .lang { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; fill: #c9d1d9; }
@@ -16,7 +16,7 @@
   </defs>
   <rect class="bg" width="420" height="190" rx="14"/>
   <rect x="3" y="3" width="414" height="184" rx="12" fill="none" stroke="url(#bg_server_2019_nlb)" stroke-width="1.4"/>
-  <rect x="0" y="0" width="6" height="190" rx="3" fill="#A78BFA"/>
+  <rect x="0" y="0" width="6" height="190" rx="3" fill="#58A6FF"/>
   <text x="24" y="34" class="cat">NETWORK & SYSTEMS</text>
   <text x="24" y="62" class="title">Server 2019 NLB</text>
   <text x="24" y="96" class="desc">Two-node Windows Server 2019 NLB cluster with</text>
