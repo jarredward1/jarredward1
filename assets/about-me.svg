@@ -28,7 +28,7 @@
   <rect class="row" x="32" y="78" width="836" height="48"/>
   <circle cx="60" cy="102" r="6" fill="#3FB950"/>
   <text x="84" y="96" class="label" fill="#7EE787">Currently working on</text>
-  <text x="84" y="116" class="value">Building out my cybersecurity &amp; GRC project portfolio</text>
+  <text x="84" y="116" class="value">Building out my vulnerability management &amp; GRC project portfolio</text>
 
   <!-- Row 2 -->
   <rect class="row" x="32" y="134" width="836" height="48"/>
@@ -46,7 +46,7 @@
   <rect class="row" x="32" y="246" width="836" height="48"/>
   <circle cx="60" cy="270" r="6" fill="#F2CC60"/>
   <text x="84" y="264" class="label" fill="#F2CC60">Ask me about</text>
-  <text x="84" y="284" class="value">NIST CSF/RMF, PCI DSS, vulnerability management</text>
+  <text x="84" y="284" class="value">Vulnerability management, GRC, NIST</text>
 
   <!-- Row 5 -->
   <rect class="row" x="32" y="302" width="836" height="48"/>
