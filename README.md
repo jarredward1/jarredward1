@@ -34,13 +34,8 @@
 &nbsp;
 
 <div align="center">
-  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
+  <img src="assets/projects-banner.svg" width="100%" alt="Projects"/>
 </div>
-
-&nbsp;
-&nbsp;
-
-# 💡 Projects
 
 <table>
   <tr>
@@ -72,7 +67,18 @@
 &nbsp;
 &nbsp;
 
-# 📊 GitHub Stats
+# 📃 Certifications
+
+<div align="center">
+  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
+</div>
+
+&nbsp;
+&nbsp;
+
+<div align="center">
+  <img src="assets/github-stats-banner.svg" width="100%" alt="GitHub Stats"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jarredward1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
@@ -85,7 +91,9 @@
 &nbsp;
 &nbsp;
 
-# 📈 Contribution Graph
+<div align="center">
+  <img src="assets/contribution-graph-banner.svg" width="100%" alt="Contribution Graph"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarredward1&custom_title=Contribution%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
@@ -102,7 +110,9 @@
 &nbsp;
 &nbsp;
 
-# 🏆 GitHub Trophies
+<div align="center">
+  <img src="assets/github-trophies-banner.svg" width="100%" alt="GitHub Trophies"/>
+</div>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=jarredward1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies"/>

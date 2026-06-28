@@ -1,0 +1,26 @@
+<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGrad7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A9FEF7"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#F472B6"/>
+    </linearGradient>
+    <linearGradient id="titleGrad7" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A9FEF7"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="diagLinesGraph" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="14" stroke="#A9FEF7" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <style>
+      .bg7 { fill: #0d1117; }
+      .title7 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 30px; font-weight: 700; fill: url(#titleGrad7); }
+    </style>
+  </defs>
+
+  <rect class="bg7" width="900" height="100" rx="20"/>
+  <rect width="900" height="100" rx="20" fill="url(#diagLinesGraph)"/>
+  <rect x="6" y="6" width="888" height="88" rx="16" fill="none" stroke="url(#borderGrad7)" stroke-width="1.5"/>
+
+  <text x="40" y="62" class="title7">📈 Contribution Graph</text>
+</svg>
