@@ -1,0 +1,26 @@
+<svg width="420" height="190" viewBox="0 0 420 190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg_cybersecurity_risk_assessment" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A9FEF7"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#F472B6"/>
+    </linearGradient>
+    <style>
+      .bg { fill: #0d1117; }
+      .cat { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 1px; fill: #3FB950; }
+      .title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #e6edf3; }
+      .desc { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12.5px; fill: #9aa4b2; }
+      .lang { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; fill: #c9d1d9; }
+      .arrow { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; fill: #58A6FF; }
+    </style>
+  </defs>
+  <rect class="bg" width="420" height="190" rx="14"/>
+  <rect x="3" y="3" width="414" height="184" rx="12" fill="none" stroke="url(#bg_cybersecurity_risk_assessment)" stroke-width="1.4"/>
+  <rect x="0" y="0" width="6" height="190" rx="3" fill="#3FB950"/>
+  <text x="24" y="34" class="cat">GRC</text>
+  <text x="24" y="62" class="title">Cybersecurity Risk Assessment</text>
+  <text x="24" y="96" class="desc">Risk assessment for a fictional financial</text>
+  <text x="24" y="116" class="desc">institution using a 5x5 risk matrix and the</text>
+  <text x="24" y="136" class="desc">NIST RMF.</text>
+  <text x="396" y="170" class="arrow" text-anchor="end">View repo &#8599;</text>
+</svg>
