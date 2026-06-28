@@ -33,6 +33,13 @@
 &nbsp;
 &nbsp;
 
+<div align="center">
+  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
+</div>
+
+&nbsp;
+&nbsp;
+
 # 💡 Projects
 
 <table>
@@ -61,15 +68,6 @@
     <td width="50%"><a href="https://github.com/jarredward1/claude-ask"><img src="assets/cards/claude-ask.svg" width="100%"/></a></td>
   </tr>
 </table>
-
-&nbsp;
-&nbsp;
-
-# 📃 Certifications
-
-<div align="center">
-  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
-</div>
 
 &nbsp;
 &nbsp;
