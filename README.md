@@ -37,24 +37,28 @@
 
 <table>
   <tr>
-    <td width="33%"><a href="https://github.com/jarredward1/cybersecurity-risk-assessment"><img src="assets/cards/cybersecurity-risk-assessment.svg" width="100%"/></a></td>
-    <td width="33%"><a href="https://github.com/jarredward1/vulnerability-management-program"><img src="assets/cards/vulnerability-management-program.svg" width="100%"/></a></td>
-    <td width="33%"><a href="https://github.com/jarredward1/enterprise-security-program"><img src="assets/cards/enterprise-security-program.svg" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/jarredward1/vulnerability-management-program"><img src="assets/cards/vulnerability-management-program.svg" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/jarredward1/disa-stig-remediations"><img src="assets/cards/disa-stig-remediations.svg" width="100%"/></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://github.com/jarredward1/disa-stig-remediations"><img src="assets/cards/disa-stig-remediations.svg" width="100%"/></a></td>
-    <td width="33%"><a href="https://github.com/jarredward1/threat-hunts"><img src="assets/cards/threat-hunts.svg" width="100%"/></a></td>
-    <td width="33%"><a href="https://github.com/jarredward1/azure-soc"><img src="assets/cards/azure-soc.svg" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/jarredward1/cybersecurity-risk-assessment"><img src="assets/cards/cybersecurity-risk-assessment.svg" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/jarredward1/enterprise-security-program"><img src="assets/cards/enterprise-security-program.svg" width="100%"/></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://github.com/jarredward1/pci-dss-audit"><img src="assets/cards/pci-dss-audit.svg" width="100%"/></a></td>
-    <td width="33%"><a href="https://github.com/jarredward1/grc-analyst-project"><img src="assets/cards/grc-analyst-project.svg" width="100%"/></a></td>
-    <td width="33%"><a href="https://github.com/jarredward1/server-2019-nlb"><img src="assets/cards/server-2019-nlb.svg" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/jarredward1/pci-dss-audit"><img src="assets/cards/pci-dss-audit.svg" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/jarredward1/grc-analyst-project"><img src="assets/cards/grc-analyst-project.svg" width="100%"/></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://github.com/jarredward1/wordpress-proof-of-concept"><img src="assets/cards/wordpress-proof-of-concept.svg" width="100%"/></a></td>
-    <td width="33%"><a href="https://github.com/jarredward1/enterprise-network-system-implementation"><img src="assets/cards/enterprise-network-system-implementation.svg" width="100%"/></a></td>
-    <td width="33%"><a href="https://github.com/jarredward1/claude-ask"><img src="assets/cards/claude-ask.svg" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/jarredward1/server-2019-nlb"><img src="assets/cards/server-2019-nlb.svg" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/jarredward1/wordpress-proof-of-concept"><img src="assets/cards/wordpress-proof-of-concept.svg" width="100%"/></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/jarredward1/enterprise-network-system-implementation"><img src="assets/cards/enterprise-network-system-implementation.svg" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/jarredward1/threat-hunts"><img src="assets/cards/threat-hunts.svg" width="100%"/></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/jarredward1/azure-soc"><img src="assets/cards/azure-soc.svg" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/jarredward1/claude-ask"><img src="assets/cards/claude-ask.svg" width="100%"/></a></td>
   </tr>
 </table>
 
