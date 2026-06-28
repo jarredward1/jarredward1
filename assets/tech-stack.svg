@@ -53,6 +53,7 @@
     <rect class="badge" x="44" y="247" width="90" height="34"/><circle cx="62" cy="264" r="5" fill="#A78BFA"/><text x="76" y="269" class="badgetext">Azure</text>
     <rect class="badge" x="142" y="247" width="160" height="34"/><circle cx="160" cy="264" r="5" fill="#A78BFA"/><text x="174" y="269" class="badgetext">Windows Server</text>
     <rect class="badge" x="310" y="247" width="160" height="34"/><circle cx="328" cy="264" r="5" fill="#A78BFA"/><text x="342" y="269" class="badgetext">Active Directory</text>
+    <rect class="badge" x="478" y="247" width="110" height="34"/><circle cx="496" cy="264" r="5" fill="#A78BFA"/><text x="510" y="269" class="badgetext">Entra ID</text>
   </g>
 
   <!-- Scripting -->
