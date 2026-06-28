@@ -4,15 +4,13 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/) &nbsp; &nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Ward_official@protonmail.com)
 
 </div>
 
 &nbsp;
 &nbsp;
-
-## 👋 About Me
 
 <div align="center">
   <img src="assets/about-me.svg" width="100%" alt="About Me"/>
@@ -21,16 +19,12 @@
 &nbsp;
 &nbsp;
 
-## 🧰 Tech Stack
-
 <div align="center">
   <img src="assets/tech-stack.svg" width="100%" alt="Tech Stack"/>
 </div>
 
 &nbsp;
 &nbsp;
-
-## 🧬 Skill DNA
 
 <div align="center">
   <img src="assets/skill-dna.svg" width="100%" alt="Skill DNA"/>
@@ -39,7 +33,7 @@
 &nbsp;
 &nbsp;
 
-## 💡 Projects
+# 💡 Projects
 
 <table>
   <tr>
@@ -67,23 +61,16 @@
 &nbsp;
 &nbsp;
 
-## 📃 Certifications
+# 📃 Certifications
 
-- Google Cybersecurity Certificate
-- CompTIA Network+
-- CompTIA Security+
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-
-&nbsp;
-
-## 📚 I'm Currently Studying
-
-- Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500) — Expected November 2026
+<div align="center">
+  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
+</div>
 
 &nbsp;
 &nbsp;
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jarredward1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
@@ -97,7 +84,7 @@
 &nbsp;
 &nbsp;
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarredward1&custom_title=Contribution%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
@@ -106,7 +93,7 @@
 &nbsp;
 &nbsp;
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=jarredward1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies"/>
