@@ -34,7 +34,7 @@
   <rect class="row" x="32" y="134" width="836" height="48"/>
   <circle cx="60" cy="158" r="6" fill="#A78BFA"/>
   <text x="84" y="152" class="label" fill="#C4B5FD">Currently learning</text>
-  <text x="84" y="172" class="value">Microsoft SC-500 (Cloud and AI Security Engineer Associate)</text>
+  <text x="84" y="172" class="value">Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)</text>
 
   <!-- Row 3 -->
   <rect class="row" x="32" y="190" width="836" height="48"/>
