@@ -90,6 +90,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarredward1&custom_title=Contribution%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jarredward1/jarredward1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jarredward1/jarredward1/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/jarredward1/jarredward1/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 &nbsp;
 &nbsp;
 
