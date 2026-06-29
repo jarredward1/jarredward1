@@ -5,6 +5,10 @@
       <stop offset="50%" stop-color="#A78BFA"/>
       <stop offset="100%" stop-color="#F472B6"/>
     </linearGradient>
+    <pattern id="diagLines_grc_analyst_project" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="14" stroke="#A9FEF7" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+
     <style>
       .bg { fill: #0d1117; }
       .cat { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: 1px; fill: #3FB950; }
@@ -15,6 +19,7 @@
     </style>
   </defs>
   <rect class="bg" width="420" height="190" rx="14"/>
+  <rect width="420" height="190" rx="14" fill="url(#diagLines_grc_analyst_project)"/>
   <rect x="3" y="3" width="414" height="184" rx="12" fill="none" stroke="url(#bg_grc_analyst_project)" stroke-width="1.4"/>
   <text x="24" y="34" class="cat">GRC</text>
   <text x="24" y="62" class="title">GRC Analyst Project</text>
