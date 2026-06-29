@@ -31,7 +31,7 @@
   <rect width="900" height="430" rx="20" fill="url(#diagLinesSkill)"/>
   <rect x="6" y="6" width="888" height="418" rx="16" fill="none" stroke="url(#borderGrad3)" stroke-width="1.5"/>
 
-  <text x="40" y="50" class="title3">Skill DNA — Security Domains</text>
+  <text x="40" y="50" class="title3">🧬 Skill DNA — Security Domains</text>
   <text x="40" y="72" class="sub3">Based on focus area across 12 public repositories</text>
 
   <!-- GRC & Compliance 33% -->

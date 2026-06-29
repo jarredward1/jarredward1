@@ -26,7 +26,7 @@
   <rect width="900" height="480" rx="20" fill="url(#diagLinesAbout)"/>
   <rect class="card" x="6" y="6" width="888" height="468" rx="16" fill="none"/>
 
-  <text x="40" y="55" class="title">About Me</text>
+  <text x="40" y="55" class="title">📌 About Me</text>
 
   <!-- Row 1 -->
   <rect class="row" x="36" y="84" width="828" height="48"/>

@@ -26,7 +26,7 @@
   <rect width="900" height="458" rx="20" fill="url(#diagLinesTech)"/>
   <rect x="6" y="6" width="888" height="446" rx="16" fill="none" stroke="url(#borderGrad2)" stroke-width="1.5"/>
 
-  <text x="40" y="50" class="title2">Tech Stack</text>
+  <text x="40" y="50" class="title2">🛠️ Tech Stack</text>
 
   <!-- GRC & Frameworks -->
   <text x="44" y="85" class="group">GRC &amp; FRAMEWORKS</text>
