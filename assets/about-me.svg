@@ -10,7 +10,7 @@
       <stop offset="100%" stop-color="#A78BFA"/>
     </linearGradient>
     <pattern id="diagLinesAbout" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-      <line x1="0" y1="0" x2="0" y2="14" stroke="#A9FEF7" stroke-opacity="0.035" stroke-width="1"/>
+      <line x1="0" y1="0" x2="0" y2="14" stroke="#A9FEF7" stroke-opacity="0.06" stroke-width="1"/>
     </pattern>
     <style>
       .bg { fill: #0d1117; }
