@@ -38,7 +38,6 @@
 </div>
 
 &nbsp;
-&nbsp;
 
 <div align="center">
   <img src="assets/projects-banner.svg" width="100%" alt="Projects"/>
