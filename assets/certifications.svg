@@ -52,4 +52,17 @@
   <text x="84" y="296" class="label4">Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)</text>
   <rect x="700" y="278" width="148" height="26" rx="13" fill="#2b2308" stroke="#F2CC60"/>
   <text x="774" y="295" class="tag" fill="#F2CC60" text-anchor="middle">November 2026</text>
+  <defs>
+    <clipPath id="cardClipCerts">
+      <rect x="6" y="6" width="888" height="316" rx="16"/>
+    </clipPath>
+    <linearGradient id="glowBarCerts" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58A6FF" stop-opacity="0.11"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="-60" width="888" height="60" fill="url(#glowBarCerts)" clip-path="url(#cardClipCerts)">
+    <animate attributeName="y" values="-60;328" dur="7s" repeatCount="indefinite"/>
+  </rect>
 </svg>

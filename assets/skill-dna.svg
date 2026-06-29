@@ -68,4 +68,17 @@
   <text x="856" y="383" class="pct3" text-anchor="end">8%</text>
   <rect class="track" x="44" y="394" width="812" height="14"/>
   <rect x="44" y="394" width="65" height="14" rx="8" fill="url(#bar5)"/>
+  <defs>
+    <clipPath id="cardClipSkill">
+      <rect x="6" y="6" width="888" height="418" rx="16"/>
+    </clipPath>
+    <linearGradient id="glowBarSkill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3FB950" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#3FB950" stop-opacity="0.11"/>
+      <stop offset="100%" stop-color="#3FB950" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="-60" width="888" height="60" fill="url(#glowBarSkill)" clip-path="url(#cardClipSkill)">
+    <animate attributeName="y" values="-60;430" dur="7s" repeatCount="indefinite"/>
+  </rect>
 </svg>

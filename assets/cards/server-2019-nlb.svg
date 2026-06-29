@@ -22,4 +22,17 @@
   <text x="24" y="116" class="desc">IIS and Active Directory for high-availability</text>
   <text x="24" y="136" class="desc">web infrastructure.</text>
   <text x="396" y="170" class="arrow" text-anchor="end">View repo &#8599;</text>
+  <defs>
+    <clipPath id="cardClipServer2019Nlb">
+      <rect x="3" y="3" width="414" height="184" rx="12"/>
+    </clipPath>
+    <linearGradient id="glowBarServer2019Nlb" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58A6FF" stop-opacity="0.11"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="-30" width="414" height="30" fill="url(#glowBarServer2019Nlb)" clip-path="url(#cardClipServer2019Nlb)">
+    <animate attributeName="y" values="-30;190" dur="7s" repeatCount="indefinite"/>
+  </rect>
 </svg>

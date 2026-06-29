@@ -25,4 +25,17 @@
   <circle cx="38" cy="157" r="5" fill="#F783AC"/>
   <text x="50" y="161" class="lang">HTML</text>
   <text x="396" y="170" class="arrow" text-anchor="end">View repo &#8599;</text>
+  <defs>
+    <clipPath id="cardClipClaudeAsk">
+      <rect x="3" y="3" width="414" height="184" rx="12"/>
+    </clipPath>
+    <linearGradient id="glowBarClaudeAsk" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F783AC" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#F783AC" stop-opacity="0.11"/>
+      <stop offset="100%" stop-color="#F783AC" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="-30" width="414" height="30" fill="url(#glowBarClaudeAsk)" clip-path="url(#cardClipClaudeAsk)">
+    <animate attributeName="y" values="-30;190" dur="7s" repeatCount="indefinite"/>
+  </rect>
 </svg>

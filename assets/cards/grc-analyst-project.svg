@@ -21,4 +21,17 @@
   <text x="24" y="96" class="desc">Security posture and gap analysis mapped to</text>
   <text x="24" y="116" class="desc">the six functions of NIST CSF 2.0.</text>
   <text x="396" y="170" class="arrow" text-anchor="end">View repo &#8599;</text>
+  <defs>
+    <clipPath id="cardClipGrcAnalystProject">
+      <rect x="3" y="3" width="414" height="184" rx="12"/>
+    </clipPath>
+    <linearGradient id="glowBarGrcAnalystProject" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3FB950" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#3FB950" stop-opacity="0.11"/>
+      <stop offset="100%" stop-color="#3FB950" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="-30" width="414" height="30" fill="url(#glowBarGrcAnalystProject)" clip-path="url(#cardClipGrcAnalystProject)">
+    <animate attributeName="y" values="-30;190" dur="7s" repeatCount="indefinite"/>
+  </rect>
 </svg>
