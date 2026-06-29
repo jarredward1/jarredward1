@@ -42,6 +42,10 @@
 <div align="center">
   <img src="assets/projects-banner.svg" width="100%" alt="Projects"/>
 </div>
+
+&nbsp;
+&nbsp;
+
 <p align="center">
   <a href="https://github.com/jarredward1/vulnerability-management-program"><img src="assets/cards/vulnerability-management-program.svg" width="49%"/></a>
   <a href="https://github.com/jarredward1/disa-stig-remediations"><img src="assets/cards/disa-stig-remediations.svg" width="49%"/></a>
@@ -78,6 +82,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jarredward1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
   <img src="https://komarev.com/ghpvc/?username=jarredward1&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
+
+&nbsp;
+&nbsp;
 
 <div align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=jarredward1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -120,7 +127,16 @@
   <img src="assets/dev-quote-banner.svg" width="100%" alt="Random Quote"/>
 </div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/) &nbsp; &nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Ward_official@protonmail.com)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+&nbsp;
+&nbsp;
 
 ---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/) &nbsp; &nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Ward_official@protonmail.com)
+
+</div>
