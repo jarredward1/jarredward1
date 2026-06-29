@@ -113,8 +113,11 @@
   <img src="https://github-trophies.vercel.app/?username=jarredward1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies"/>
 </p>
 
+&nbsp;
+&nbsp;
+
 <div align="center">
-  <img src="assets/dev-quote-banner.svg" width="100%" alt="Dev Quote"/>
+  <img src="assets/dev-quote-banner.svg" width="100%" alt="Random Quote"/>
 </div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
