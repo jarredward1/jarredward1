@@ -16,7 +16,7 @@
   </defs>
   <rect class="bg" width="420" height="190" rx="14"/>
   <rect x="3" y="3" width="414" height="184" rx="12" fill="none" stroke="url(#bg_wordpress_proof_of_concept)" stroke-width="1.4"/>
-  <text x="24" y="34" class="cat">NETWORK & SYSTEMS</text>
+  <text x="24" y="34" class="cat">NETWORK &amp; SYSTEMS</text>
   <text x="24" y="62" class="title">WordPress Proof of Concept</text>
   <text x="24" y="96" class="desc">WordPress deployment on a custom virtual</text>
   <text x="24" y="116" class="desc">network using LAMP, Docker, and an NGINX</text>

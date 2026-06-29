@@ -16,7 +16,7 @@
   </defs>
   <rect class="bg" width="420" height="190" rx="14"/>
   <rect x="3" y="3" width="414" height="184" rx="12" fill="none" stroke="url(#bg_server_2019_nlb)" stroke-width="1.4"/>
-  <text x="24" y="34" class="cat">NETWORK & SYSTEMS</text>
+  <text x="24" y="34" class="cat">NETWORK &amp; SYSTEMS</text>
   <text x="24" y="62" class="title">Server 2019 NLB</text>
   <text x="24" y="96" class="desc">Two-node Windows Server 2019 NLB cluster with</text>
   <text x="24" y="116" class="desc">IIS and Active Directory for high-availability</text>
