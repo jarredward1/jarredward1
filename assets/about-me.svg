@@ -18,7 +18,7 @@
       .title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 30px; font-weight: 700; fill: url(#titleGrad); }
       .label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; font-weight: 700; }
       .value { font-family: 'Segoe UI', Arial, sans-serif; font-size: 15px; fill: #c9d1d9; }
-      .row { fill: #161b22; stroke: #30363d; stroke-width: 1; rx: 10; }
+      .row { fill: none; stroke: #30363d; stroke-width: 1; rx: 10; }
     </style>
   </defs>
 
@@ -63,4 +63,18 @@
   <circle cx="64" cy="418" r="6" fill="#7EE787"/>
   <text x="88" y="412" class="label" fill="#7EE787">Fun fact</text>
   <text x="88" y="432" class="value">I have over 300 books and can tell you exactly where any one of them is on the shelf.</text>
+
+  <defs>
+    <clipPath id="cardClipAbout">
+      <rect x="6" y="6" width="888" height="468" rx="16"/>
+    </clipPath>
+    <linearGradient id="glowBarAbout" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#A9FEF7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#A78BFA" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#A9FEF7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="-60" width="888" height="60" fill="url(#glowBarAbout)" clip-path="url(#cardClipAbout)">
+    <animate attributeName="y" values="-60;480" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
 </svg>
