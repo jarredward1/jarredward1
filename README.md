@@ -120,4 +120,7 @@
   <img src="assets/dev-quote-banner.svg" width="100%" alt="Random Quote"/>
 </div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/) &nbsp; &nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Ward_official@protonmail.com)
+
+---
