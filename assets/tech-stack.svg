@@ -1,4 +1,4 @@
-<svg width="900" height="458" viewBox="0 0 900 458" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="520" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="borderGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#A9FEF7"/>
@@ -22,9 +22,9 @@
     </style>
   </defs>
 
-  <rect class="bg2" width="900" height="458" rx="20"/>
-  <rect width="900" height="458" rx="20" fill="url(#diagLinesTech)"/>
-  <rect x="6" y="6" width="888" height="446" rx="16" fill="none" stroke="url(#borderGrad2)" stroke-width="1.5"/>
+  <rect class="bg2" width="900" height="520" rx="20"/>
+  <rect width="900" height="520" rx="20" fill="url(#diagLinesTech)"/>
+  <rect x="6" y="6" width="888" height="508" rx="16" fill="none" stroke="url(#borderGrad2)" stroke-width="1.5"/>
 
   <text x="40" y="50" class="title2">🛠️ Tech Stack</text>
 
@@ -40,40 +40,40 @@
   </g>
 
   <!-- Security Tooling -->
-  <text x="44" y="161" class="group">SECURITY TOOLING</text>
+  <text x="44" y="173" class="group">SECURITY TOOLING</text>
   <g>
-    <rect class="badge" x="44" y="171" width="100" height="34"/><circle cx="62" cy="188" r="5" fill="#3FB950"/><text x="76" y="193" class="badgetext">Tenable</text>
-    <rect class="badge" x="152" y="171" width="180" height="34"/><circle cx="170" cy="188" r="5" fill="#3FB950"/><text x="184" y="193" class="badgetext">Microsoft Sentinel</text>
-    <rect class="badge" x="340" y="171" width="180" height="34"/><circle cx="358" cy="188" r="5" fill="#3FB950"/><text x="372" y="193" class="badgetext">Microsoft Defender</text>
+    <rect class="badge" x="44" y="183" width="100" height="34"/><circle cx="62" cy="200" r="5" fill="#3FB950"/><text x="76" y="205" class="badgetext">Tenable</text>
+    <rect class="badge" x="152" y="183" width="180" height="34"/><circle cx="170" cy="200" r="5" fill="#3FB950"/><text x="184" y="205" class="badgetext">Microsoft Sentinel</text>
+    <rect class="badge" x="340" y="183" width="180" height="34"/><circle cx="358" cy="200" r="5" fill="#3FB950"/><text x="372" y="205" class="badgetext">Microsoft Defender</text>
   </g>
 
   <!-- Cloud & Infra -->
-  <text x="44" y="237" class="group">CLOUD &amp; INFRASTRUCTURE</text>
+  <text x="44" y="261" class="group">CLOUD &amp; INFRASTRUCTURE</text>
   <g>
-    <rect class="badge" x="44" y="247" width="90" height="34"/><circle cx="62" cy="264" r="5" fill="#A78BFA"/><text x="76" y="269" class="badgetext">Azure</text>
-    <rect class="badge" x="142" y="247" width="160" height="34"/><circle cx="160" cy="264" r="5" fill="#A78BFA"/><text x="174" y="269" class="badgetext">Windows Server</text>
-    <rect class="badge" x="310" y="247" width="160" height="34"/><circle cx="328" cy="264" r="5" fill="#A78BFA"/><text x="342" y="269" class="badgetext">Active Directory</text>
-    <rect class="badge" x="478" y="247" width="110" height="34"/><circle cx="496" cy="264" r="5" fill="#A78BFA"/><text x="510" y="269" class="badgetext">Entra ID</text>
+    <rect class="badge" x="44" y="271" width="90" height="34"/><circle cx="62" cy="288" r="5" fill="#A78BFA"/><text x="76" y="293" class="badgetext">Azure</text>
+    <rect class="badge" x="142" y="271" width="160" height="34"/><circle cx="160" cy="288" r="5" fill="#A78BFA"/><text x="174" y="293" class="badgetext">Windows Server</text>
+    <rect class="badge" x="310" y="271" width="160" height="34"/><circle cx="328" cy="288" r="5" fill="#A78BFA"/><text x="342" y="293" class="badgetext">Active Directory</text>
+    <rect class="badge" x="478" y="271" width="110" height="34"/><circle cx="496" cy="288" r="5" fill="#A78BFA"/><text x="510" y="293" class="badgetext">Entra ID</text>
   </g>
 
   <!-- Scripting -->
-  <text x="44" y="313" class="group">SCRIPTING &amp; QUERY</text>
+  <text x="44" y="349" class="group">SCRIPTING &amp; QUERY</text>
   <g>
-    <rect class="badge" x="44" y="323" width="130" height="34"/><circle cx="62" cy="340" r="5" fill="#F2CC60"/><text x="76" y="345" class="badgetext">PowerShell</text>
-    <rect class="badge" x="182" y="323" width="100" height="34"/><circle cx="200" cy="340" r="5" fill="#F2CC60"/><text x="214" y="345" class="badgetext">Python</text>
-    <rect class="badge" x="290" y="323" width="90" height="34"/><circle cx="308" cy="340" r="5" fill="#F2CC60"/><text x="322" y="345" class="badgetext">KQL</text>
+    <rect class="badge" x="44" y="359" width="130" height="34"/><circle cx="62" cy="376" r="5" fill="#F2CC60"/><text x="76" y="381" class="badgetext">PowerShell</text>
+    <rect class="badge" x="182" y="359" width="100" height="34"/><circle cx="200" cy="376" r="5" fill="#F2CC60"/><text x="214" y="381" class="badgetext">Python</text>
+    <rect class="badge" x="290" y="359" width="90" height="34"/><circle cx="308" cy="376" r="5" fill="#F2CC60"/><text x="322" y="381" class="badgetext">KQL</text>
   </g>
 
   <!-- Web/Infra -->
-  <text x="44" y="389" class="group">WEB &amp; DEPLOYMENT</text>
+  <text x="44" y="437" class="group">WEB &amp; DEPLOYMENT</text>
   <g>
-    <rect class="badge" x="44" y="399" width="100" height="34"/><circle cx="62" cy="416" r="5" fill="#F783AC"/><text x="76" y="421" class="badgetext">Docker</text>
-    <rect class="badge" x="152" y="399" width="100" height="34"/><circle cx="170" cy="416" r="5" fill="#F783AC"/><text x="184" y="421" class="badgetext">NGINX</text>
-    <rect class="badge" x="260" y="399" width="130" height="34"/><circle cx="278" cy="416" r="5" fill="#F783AC"/><text x="292" y="421" class="badgetext">WordPress</text>
+    <rect class="badge" x="44" y="447" width="100" height="34"/><circle cx="62" cy="464" r="5" fill="#F783AC"/><text x="76" y="469" class="badgetext">Docker</text>
+    <rect class="badge" x="152" y="447" width="100" height="34"/><circle cx="170" cy="464" r="5" fill="#F783AC"/><text x="184" y="469" class="badgetext">NGINX</text>
+    <rect class="badge" x="260" y="447" width="130" height="34"/><circle cx="278" cy="464" r="5" fill="#F783AC"/><text x="292" y="469" class="badgetext">WordPress</text>
   </g>
   <defs>
     <clipPath id="cardClipTech">
-      <rect x="6" y="6" width="888" height="446" rx="16"/>
+      <rect x="6" y="6" width="888" height="508" rx="16"/>
     </clipPath>
     <linearGradient id="glowBarTech" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#A9FEF7" stop-opacity="0"/>
@@ -82,6 +82,6 @@
     </linearGradient>
   </defs>
   <rect x="6" y="-60" width="888" height="60" fill="url(#glowBarTech)" clip-path="url(#cardClipTech)">
-    <animate attributeName="y" values="-60;458" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="-60;520" dur="7s" repeatCount="indefinite"/>
   </rect>
 </svg>
