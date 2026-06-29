@@ -19,10 +19,10 @@
     </pattern>
     <style>
       .bg3 { fill: #0d1117; }
-      .title3 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 30px; font-weight: 700; fill: url(#titleGrad3); }
-      .sub3 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; fill: #6e7681; }
-      .label3 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; font-weight: 700; fill: #c9d1d9; }
-      .pct3 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; font-weight: 700; fill: #A78BFA; }
+      .title3 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 32px; font-weight: 700; fill: url(#titleGrad3); }
+      .sub3 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 15px; fill: #6e7681; }
+      .label3 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #c9d1d9; }
+      .pct3 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #A78BFA; }
       .track { fill: #161b22; rx: 8; }
     </style>
   </defs>

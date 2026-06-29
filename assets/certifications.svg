@@ -11,9 +11,9 @@
     </linearGradient>
     <style>
       .bg4 { fill: #0d1117; }
-      .title4 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 30px; font-weight: 700; fill: url(#titleGrad4); }
-      .label4 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; font-weight: 600; fill: #c9d1d9; }
-      .tag { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; font-weight: 700; }
+      .title4 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 32px; font-weight: 700; fill: url(#titleGrad4); }
+      .label4 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; font-weight: 600; fill: #c9d1d9; }
+      .tag { font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; font-weight: 700; }
       .row4 { fill: none; stroke: #30363d; stroke-width: 1; rx: 10; }
     </style>
   </defs>

@@ -14,10 +14,10 @@
     </pattern>
     <style>
       .bg2 { fill: #0d1117; }
-      .title2 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 30px; font-weight: 700; fill: url(#titleGrad2); }
-      .group { font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; font-weight: 700; fill: #8b949e; letter-spacing: 1px; }
+      .title2 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 32px; font-weight: 700; fill: url(#titleGrad2); }
+      .group { font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; font-weight: 700; fill: #8b949e; letter-spacing: 1px; }
       .badge { fill: #161b22; stroke: #30363d; stroke-width: 1; rx: 8; }
-      .badgetext { font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; fill: #c9d1d9; }
+      .badgetext { font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; fill: #c9d1d9; }
       .dot { }
     </style>
   </defs>
