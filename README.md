@@ -38,14 +38,11 @@
 </div>
 
 &nbsp;
+&nbsp;
 
 <div align="center">
   <img src="assets/projects-banner.svg" width="100%" alt="Projects"/>
 </div>
-
-&nbsp;
-&nbsp;
-
 <p align="center">
   <a href="https://github.com/jarredward1/vulnerability-management-program"><img src="assets/cards/vulnerability-management-program.svg" width="49%"/></a>
   <a href="https://github.com/jarredward1/disa-stig-remediations"><img src="assets/cards/disa-stig-remediations.svg" width="49%"/></a>

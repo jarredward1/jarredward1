@@ -62,9 +62,9 @@
   <rect class="track" x="44" y="328" width="812" height="14"/>
   <rect x="44" y="328" width="138" height="14" rx="8" fill="url(#bar4)"/>
 
-  <!-- Other 8% -->
+  <!-- AI 8% -->
   <circle cx="62" cy="378" r="6" fill="#F783AC"/>
-  <text x="82" y="383" class="label3">Other</text>
+  <text x="82" y="383" class="label3">AI</text>
   <text x="856" y="383" class="pct3" text-anchor="end">8%</text>
   <rect class="track" x="44" y="394" width="812" height="14"/>
   <rect x="44" y="394" width="65" height="14" rx="8" fill="url(#bar5)"/>
