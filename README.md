@@ -126,9 +126,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-&nbsp;
-&nbsp;
-
 ---
 
 <div align="center">
