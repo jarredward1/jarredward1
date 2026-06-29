@@ -16,7 +16,6 @@
   </defs>
   <rect class="bg" width="420" height="190" rx="14"/>
   <rect x="3" y="3" width="414" height="184" rx="12" fill="none" stroke="url(#bg_pci_dss_audit)" stroke-width="1.4"/>
-  <rect x="0" y="0" width="6" height="190" rx="3" fill="#3FB950"/>
   <text x="24" y="34" class="cat">GRC</text>
   <text x="24" y="62" class="title">PCI DSS Audit</text>
   <text x="24" y="96" class="desc">Full PCI DSS audit engagement covering</text>
