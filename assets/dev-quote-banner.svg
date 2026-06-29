@@ -22,5 +22,5 @@
   <rect width="900" height="100" rx="20" fill="url(#diagLinesQuote)"/>
   <rect x="6" y="6" width="888" height="88" rx="16" fill="none" stroke="url(#borderGrad6)" stroke-width="1.5"/>
 
-  <text x="40" y="62" class="title6">💬 Dev Quote</text>
+  <text x="40" y="62" class="title6">💬 Random Quote</text>
 </svg>
