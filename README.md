@@ -13,66 +13,66 @@
 &nbsp;
 
 <div align="center">
-  <img src="assets/about-me.svg" width="650" alt="About Me"/>
+  <img src="assets/about-me.svg" width="100%" alt="About Me"/>
 </div>
 
 &nbsp;
 &nbsp;
 
 <div align="center">
-  <img src="assets/tech-stack.svg" width="650" alt="Tech Stack"/>
+  <img src="assets/tech-stack.svg" width="100%" alt="Tech Stack"/>
 </div>
 
 &nbsp;
 &nbsp;
 
 <div align="center">
-  <img src="assets/skill-dna.svg" width="650" alt="Skill DNA"/>
+  <img src="assets/skill-dna.svg" width="100%" alt="Skill DNA"/>
 </div>
 
 &nbsp;
 &nbsp;
 
 <div align="center">
-  <img src="assets/certifications.svg" width="650" alt="Certifications"/>
+  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
 </div>
 
 &nbsp;
 &nbsp;
 
 <div align="center">
-  <img src="assets/projects-banner.svg" width="650" alt="Projects"/>
+  <img src="assets/projects-banner.svg" width="100%" alt="Projects"/>
 </div>
 <p align="center">
-  <a href="https://github.com/jarredward1/vulnerability-management-program"><img src="assets/cards/vulnerability-management-program.svg" width="320"/></a>
-  <a href="https://github.com/jarredward1/disa-stig-remediations"><img src="assets/cards/disa-stig-remediations.svg" width="320"/></a>
+  <a href="https://github.com/jarredward1/vulnerability-management-program"><img src="assets/cards/vulnerability-management-program.svg" width="49%"/></a>
+  <a href="https://github.com/jarredward1/disa-stig-remediations"><img src="assets/cards/disa-stig-remediations.svg" width="49%"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/jarredward1/cybersecurity-risk-assessment"><img src="assets/cards/cybersecurity-risk-assessment.svg" width="320"/></a>
-  <a href="https://github.com/jarredward1/enterprise-security-program"><img src="assets/cards/enterprise-security-program.svg" width="320"/></a>
+  <a href="https://github.com/jarredward1/cybersecurity-risk-assessment"><img src="assets/cards/cybersecurity-risk-assessment.svg" width="49%"/></a>
+  <a href="https://github.com/jarredward1/enterprise-security-program"><img src="assets/cards/enterprise-security-program.svg" width="49%"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/jarredward1/pci-dss-audit"><img src="assets/cards/pci-dss-audit.svg" width="320"/></a>
-  <a href="https://github.com/jarredward1/grc-analyst-project"><img src="assets/cards/grc-analyst-project.svg" width="320"/></a>
+  <a href="https://github.com/jarredward1/pci-dss-audit"><img src="assets/cards/pci-dss-audit.svg" width="49%"/></a>
+  <a href="https://github.com/jarredward1/grc-analyst-project"><img src="assets/cards/grc-analyst-project.svg" width="49%"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/jarredward1/server-2019-nlb"><img src="assets/cards/server-2019-nlb.svg" width="320"/></a>
-  <a href="https://github.com/jarredward1/wordpress-proof-of-concept"><img src="assets/cards/wordpress-proof-of-concept.svg" width="320"/></a>
+  <a href="https://github.com/jarredward1/server-2019-nlb"><img src="assets/cards/server-2019-nlb.svg" width="49%"/></a>
+  <a href="https://github.com/jarredward1/wordpress-proof-of-concept"><img src="assets/cards/wordpress-proof-of-concept.svg" width="49%"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/jarredward1/enterprise-network-system-implementation"><img src="assets/cards/enterprise-network-system-implementation.svg" width="320"/></a>
-  <a href="https://github.com/jarredward1/threat-hunts"><img src="assets/cards/threat-hunts.svg" width="320"/></a>
+  <a href="https://github.com/jarredward1/enterprise-network-system-implementation"><img src="assets/cards/enterprise-network-system-implementation.svg" width="49%"/></a>
+  <a href="https://github.com/jarredward1/threat-hunts"><img src="assets/cards/threat-hunts.svg" width="49%"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/jarredward1/azure-soc"><img src="assets/cards/azure-soc.svg" width="320"/></a>
-  <a href="https://github.com/jarredward1/claude-ask"><img src="assets/cards/claude-ask.svg" width="320"/></a>
+  <a href="https://github.com/jarredward1/azure-soc"><img src="assets/cards/azure-soc.svg" width="49%"/></a>
+  <a href="https://github.com/jarredward1/claude-ask"><img src="assets/cards/claude-ask.svg" width="49%"/></a>
 </p>
 
 &nbsp;
 &nbsp;
 
 <div align="center">
-  <img src="assets/github-stats-banner.svg" width="650" alt="GitHub Stats"/>
+  <img src="assets/github-stats-banner.svg" width="100%" alt="GitHub Stats"/>
 </div>
 
 <p align="center">
@@ -91,7 +91,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="assets/contribution-graph-banner.svg" width="650" alt="Contribution Graph"/>
+  <img src="assets/contribution-graph-banner.svg" width="100%" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
@@ -110,7 +110,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="assets/github-trophies-banner.svg" width="650" alt="GitHub Trophies"/>
+  <img src="assets/github-trophies-banner.svg" width="100%" alt="GitHub Trophies"/>
 </div>
 
 <p align="center">
@@ -121,7 +121,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="assets/dev-quote-banner.svg" width="650" alt="Random Quote"/>
+  <img src="assets/dev-quote-banner.svg" width="100%" alt="Random Quote"/>
 </div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
