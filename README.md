@@ -74,9 +74,10 @@
   <img src="assets/github-stats-banner.svg" width="100%" alt="GitHub Stats"/>
 </div>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jarredward1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=jarredward1&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=jarredward1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -111,12 +112,5 @@
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=jarredward1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies"/>
 </p>
-
-&nbsp;
-&nbsp;
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jarredward1&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

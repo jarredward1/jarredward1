@@ -28,7 +28,7 @@
     </clipPath>
     <linearGradient id="glowBarEnterpriseSecurityProgram" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#3FB950" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#3FB950" stop-opacity="0.11"/>
+      <stop offset="50%" stop-color="#3FB950" stop-opacity="0.055"/>
       <stop offset="100%" stop-color="#3FB950" stop-opacity="0"/>
     </linearGradient>
   </defs>
