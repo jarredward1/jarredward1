@@ -18,7 +18,9 @@
   <rect x="3" y="3" width="414" height="184" rx="12" fill="none" stroke="url(#bg_threat_hunts)" stroke-width="1.4"/>
   <text x="24" y="34" class="cat">SECURITY OPS</text>
   <text x="24" y="62" class="title">Threat Hunts</text>
-  <text x="24" y="96" class="desc">Proactive threat hunting exercises across</text>
-  <text x="24" y="116" class="desc">enterprise telemetry.</text>
+  <text x="24" y="96" class="desc">Hypothesis-driven threat hunts on live cyber</text>
+  <text x="24" y="116" class="desc">ranges: M365/Azure AD compromise, BEC, and</text>
+  <text x="24" y="136" class="desc">TOR misuse, traced via KQL in Microsoft</text>
+  <text x="24" y="156" class="desc">Sentinel and Defender XDR.</text>
   <text x="396" y="170" class="arrow" text-anchor="end">View repo &#8599;</text>
 </svg>
