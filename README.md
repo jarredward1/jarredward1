@@ -34,9 +34,15 @@
 &nbsp;
 
 <div align="center">
-  <img src="assets/projects-banner.svg" width="100%" alt="Projects"/>
+  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
 </div>
 
+&nbsp;
+&nbsp;
+
+<div align="center">
+  <img src="assets/projects-banner.svg" width="100%" alt="Projects"/>
+</div>
 <table>
   <tr>
     <td width="50%"><a href="https://github.com/jarredward1/vulnerability-management-program"><img src="assets/cards/vulnerability-management-program.svg" width="100%"/></a></td>
@@ -63,15 +69,6 @@
     <td width="50%"><a href="https://github.com/jarredward1/claude-ask"><img src="assets/cards/claude-ask.svg" width="100%"/></a></td>
   </tr>
 </table>
-
-&nbsp;
-&nbsp;
-
-# 📃 Certifications
-
-<div align="center">
-  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
-</div>
 
 &nbsp;
 &nbsp;
