@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/) &nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Ward_official@protonmail.com)
 
 </div>
@@ -44,14 +44,9 @@
   <img src="assets/projects-banner.svg" width="100%" alt="Projects"/>
 </div>
 
-**Vulnerability Management**
-
 <p align="center">
   <a href="https://github.com/jarredward1/vulnerability-management-program"><img src="assets/cards/vulnerability-management-program.svg" width="100%"/></a>
 </p>
-
-**GRC & Compliance**
-
 <p align="center">
   <a href="https://github.com/jarredward1/cybersecurity-risk-assessment"><img src="assets/cards/cybersecurity-risk-assessment.svg" width="100%"/></a>
 </p>
@@ -64,9 +59,6 @@
 <p align="center">
   <a href="https://github.com/jarredward1/grc-analyst-project"><img src="assets/cards/grc-analyst-project.svg" width="100%"/></a>
 </p>
-
-**Network & Systems**
-
 <p align="center">
   <a href="https://github.com/jarredward1/enterprise-network-system-implementation"><img src="assets/cards/enterprise-network-system-implementation.svg" width="100%"/></a>
 </p>
@@ -141,7 +133,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/) &nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Ward_official@protonmail.com)
 
 </div>
