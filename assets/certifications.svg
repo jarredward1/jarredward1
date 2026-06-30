@@ -55,8 +55,9 @@
   <!-- Cert 5 -->
   <rect class="row4" x="28" y="500" width="584" height="92"/>
   <text x="52" y="542" font-size="26" text-anchor="middle">🟡</text>
-  <text x="84" y="536" class="label4">Certified Information Systems Auditor (CISA)</text>
-  <text x="84" y="562" class="sub4" fill="#F2CC60">In Progress · Nov 2026</text>
+  <text x="84" y="528" class="label4">Certified Information Systems Security</text>
+  <text x="84" y="550" class="label4">Professional (CISSP)</text>
+  <text x="84" y="576" class="sub4" fill="#F2CC60">In Progress · Dec 2026</text>
 
   <defs>
     <clipPath id="cardClipCerts">
