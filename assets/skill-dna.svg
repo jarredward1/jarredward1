@@ -48,19 +48,19 @@
   <rect class="track" x="32" y="204" width="576" height="18"/>
   <rect x="32" y="204" width="115" height="18" rx="9" fill="url(#bar2)"/>
 
-  <!-- Cloud & Identity 15% -->
-  <circle cx="48" cy="262" r="6" fill="#58A6FF"/>
-  <text x="68" y="268" class="label3">Cloud &amp; Identity</text>
-  <text x="608" y="268" class="pct3" text-anchor="end">15%</text>
-  <rect class="track" x="32" y="280" width="576" height="18"/>
-  <rect x="32" y="280" width="86" height="18" rx="9" fill="url(#bar3)"/>
-
   <!-- Security Operations 20% -->
-  <circle cx="48" cy="338" r="6" fill="#F2CC60"/>
-  <text x="68" y="344" class="label3">Security Operations</text>
-  <text x="608" y="344" class="pct3" text-anchor="end">20%</text>
+  <circle cx="48" cy="262" r="6" fill="#F2CC60"/>
+  <text x="68" y="268" class="label3">Security Operations</text>
+  <text x="608" y="268" class="pct3" text-anchor="end">20%</text>
+  <rect class="track" x="32" y="280" width="576" height="18"/>
+  <rect x="32" y="280" width="115" height="18" rx="9" fill="url(#bar4)"/>
+
+  <!-- Cloud & Identity 15% -->
+  <circle cx="48" cy="338" r="6" fill="#58A6FF"/>
+  <text x="68" y="344" class="label3">Cloud &amp; Identity</text>
+  <text x="608" y="344" class="pct3" text-anchor="end">15%</text>
   <rect class="track" x="32" y="356" width="576" height="18"/>
-  <rect x="32" y="356" width="115" height="18" rx="9" fill="url(#bar4)"/>
+  <rect x="32" y="356" width="86" height="18" rx="9" fill="url(#bar3)"/>
 
   <!-- Network & Systems 15% -->
   <circle cx="48" cy="414" r="6" fill="#79C0FF"/>

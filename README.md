@@ -1,10 +1,10 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2500&pause=1000&multiline=true&width=600&height=80&center=true&lines=Hello%2C+I'm+Jarred!+%F0%9F%91%8B%F0%9F%8F%BE;Welcome+to+My+Cybersecurity+Portfolio!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2500&pause=1000&multiline=true&width=720&height=80&center=true&lines=Hello%2C+I'm+Jarred!+%F0%9F%91%8B%F0%9F%8F%BE;Welcome+to+My+Cybersecurity+Portfolio!)
 
 &nbsp;
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Ward_official@protonmail.com)
 
 </div>
@@ -133,7 +133,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Ward_official@protonmail.com)
 
 </div>
