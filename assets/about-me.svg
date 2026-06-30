@@ -16,8 +16,8 @@
       .bg { fill: #0d1117; }
       .card { fill: #11151c; stroke: url(#borderGrad); stroke-width: 1.5; rx: 16; }
       .title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 28px; font-weight: 700; fill: url(#titleGrad); }
-      .label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 20px; font-weight: 700; }
-      .value { font-family: 'Segoe UI', Arial, sans-serif; font-size: 17px; fill: #c9d1d9; }
+      .label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 24px; font-weight: 700; }
+      .value { font-family: 'Segoe UI', Arial, sans-serif; font-size: 20px; fill: #c9d1d9; }
       .row { fill: none; stroke: #30363d; stroke-width: 1; rx: 10; }
     </style>
   </defs>
@@ -29,42 +29,27 @@
   <text x="32" y="50" class="title">📌 About Me</text>
 
   <!-- Row 1 -->
-  <rect class="row" x="28" y="76" width="504" height="76"/>
-  <circle cx="52" cy="106" r="6" fill="#3FB950"/>
-  <text x="72" y="101" class="label" fill="#7EE787">Currently working on</text>
-  <text x="72" y="128" class="value">A vulnerability management automation project</text>
-
-  <!-- Row 2 -->
-  <rect class="row" x="28" y="160" width="504" height="76"/>
-  <circle cx="52" cy="190" r="6" fill="#A78BFA"/>
-  <text x="72" y="185" class="label" fill="#C4B5FD">Currently pursuing</text>
-  <text x="72" y="212" class="value">CISSP</text>
-
-  <!-- Row 3 -->
-  <rect class="row" x="28" y="244" width="504" height="76"/>
-  <circle cx="52" cy="274" r="6" fill="#58A6FF"/>
-  <text x="72" y="269" class="label" fill="#79C0FF">Looking to collaborate on</text>
-  <text x="72" y="296" class="value">Agentic AI projects</text>
-
-  <!-- Row 4 -->
-  <rect class="row" x="28" y="328" width="504" height="76"/>
-  <circle cx="52" cy="358" r="6" fill="#F2CC60"/>
-  <text x="72" y="353" class="label" fill="#F2CC60">Ask me about</text>
-  <text x="72" y="380" class="value">The latest cybersecurity news</text>
-
-  <!-- Row 5 -->
-  <rect class="row" x="28" y="412" width="504" height="76"/>
-  <circle cx="52" cy="442" r="6" fill="#F783AC"/>
-  <text x="72" y="437" class="label" fill="#F783AC">Reach me at</text>
-  <text x="72" y="464" class="value">Ward_official@protonmail.com</text>
-
-  <!-- Row 6 -->
-  <rect class="row" x="28" y="496" width="504" height="76"/>
-  <circle cx="52" cy="526" r="6" fill="#7EE787"/>
-  <text x="72" y="521" class="label" fill="#7EE787">Fun fact</text>
-  <text x="72" y="548" class="value">I have over 300 books and can tell you exactly</text>
-  <text x="72" y="571" class="value">where any one of them is on the shelf.</text>
-
+  <rect class="row" x="28" y="76" width="504" height="500"/>
+  <text x="72" y="101" class="label" fill="#7EE787">I am...</text>
+<text x="72" y="128" class="value">
+  <tspan x="72" dy="0">A vulnerability management and GRC</tspan>
+  <tspan x="72" dy="27">professional focused on turning technical</tspan>
+  <tspan x="72" dy="27">findings and control gaps into clear,</tspan>
+  <tspan x="72" dy="27">measurable action. Before transitioning into</tspan>
+  <tspan x="72" dy="27">cybersecurity, I spent 12 years in corrections,</tspan>
+  <tspan x="72" dy="27">where assessing risk, enforcing policy,</tspan>
+  <tspan x="72" dy="27">maintaining audit-ready documentation, and</tspan>
+  <tspan x="72" dy="27">making sound decisions under pressure were</tspan>
+  <tspan x="72" dy="27">part of the daily job. I now apply that same</tspan>
+  <tspan x="72" dy="27">discipline to vulnerability assessments,</tspan>
+  <tspan x="72" dy="27">risk-based remediation, compliance auditing,</tspan>
+  <tspan x="72" dy="27">and security automation across Windows,</tspan>
+  <tspan x="72" dy="27">Linux, and cloud environments. My work</tspan>
+  <tspan x="72" dy="27">includes authenticated Tenable scanning,</tspan>
+  <tspan x="72" dy="27">PowerShell-based remediation, DISA STIG</tspan>
+  <tspan x="72" dy="27">implementation, and programs aligned with</tspan>
+  <tspan x="72" dy="27">NIST, PCI DSS, and ISO 27001.</tspan>
+</text>
   <defs>
     <clipPath id="cardClipAbout">
       <rect x="6" y="6" width="548" height="576" rx="16"/>
