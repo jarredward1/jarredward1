@@ -1,10 +1,10 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&duration=2500&pause=1000&multiline=true&width=1000&height=100&center=true&lines=Hello%2C+I'm+Jarred!+%F0%9F%91%8B%F0%9F%8F%BE;Welcome+to+My+Cybersecurity+Portfolio!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2500&pause=1000&multiline=true&width=600&height=80&center=true&lines=Hello%2C+I'm+Jarred!+%F0%9F%91%8B%F0%9F%8F%BE;Welcome+to+My+Cybersecurity+Portfolio!)
 
 &nbsp;
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/) &nbsp; &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Ward_official@protonmail.com)
 
 </div>
@@ -27,8 +27,39 @@
 &nbsp;
 
 <div align="center">
-  <img src="assets/skill-dna.svg" width="100%" alt="Skill DNA"/>
+  <img src="assets/projects-banner.svg" width="100%" alt="Projects"/>
 </div>
+
+<p align="center">
+  <a href="https://github.com/jarredward1/vulnerability-management-program"><img src="assets/cards/vulnerability-management-program.svg" width="100%"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/jarredward1/cybersecurity-risk-assessment"><img src="assets/cards/cybersecurity-risk-assessment.svg" width="100%"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/jarredward1/enterprise-network-system-implementation"><img src="assets/cards/enterprise-network-system-implementation.svg" width="100%"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/jarredward1/enterprise-security-program"><img src="assets/cards/enterprise-security-program.svg" width="100%"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/jarredward1/pci-dss-audit"><img src="assets/cards/pci-dss-audit.svg" width="100%"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/jarredward1/grc-analyst-project"><img src="assets/cards/grc-analyst-project.svg" width="100%"/></a>
+</p>
+
+<details>
+<summary><b>More Projects</b></summary>
+
+- [disa-stig-remediations](https://github.com/jarredward1/disa-stig-remediations) — Scripted remediation of DISA STIG findings across enterprise systems. `PowerShell`
+- [server-2019-nlb](https://github.com/jarredward1/server-2019-nlb) — Two-node Windows Server 2019 NLB cluster with IIS and Active Directory for high-availability web infrastructure.
+- [wordpress-proof-of-concept](https://github.com/jarredward1/wordpress-proof-of-concept) — WordPress deployment on a custom virtual network using LAMP, Docker, and an NGINX reverse proxy, with defense-in-depth hardening.
+- [threat-hunts](https://github.com/jarredward1/threat-hunts) — Hypothesis-driven threat hunts on live cyber ranges: M365/Azure AD compromise, BEC, and TOR misuse, traced via KQL in Microsoft Sentinel and Defender XDR.
+- [azure-soc](https://github.com/jarredward1/azure-soc) — Azure honeynet exposed to live traffic, monitored in Microsoft Sentinel, then hardened to measure incident reduction.
+- [claude-ask](https://github.com/jarredward1/claude-ask) — Static HTML bridge between spreadsheets and Claude: HYPERLINK formulas auto-load row data to clipboard for instant handoff to Claude.ai. `HTML`
+
+</details>
 
 &nbsp;
 &nbsp;
@@ -41,32 +72,8 @@
 &nbsp;
 
 <div align="center">
-  <img src="assets/projects-banner.svg" width="100%" alt="Projects"/>
+  <img src="assets/skill-dna.svg" width="100%" alt="Skill DNA"/>
 </div>
-<p align="center">
-  <a href="https://github.com/jarredward1/vulnerability-management-program"><img src="assets/cards/vulnerability-management-program.svg" width="49%"/></a>
-  <a href="https://github.com/jarredward1/disa-stig-remediations"><img src="assets/cards/disa-stig-remediations.svg" width="49%"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/jarredward1/cybersecurity-risk-assessment"><img src="assets/cards/cybersecurity-risk-assessment.svg" width="49%"/></a>
-  <a href="https://github.com/jarredward1/enterprise-security-program"><img src="assets/cards/enterprise-security-program.svg" width="49%"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/jarredward1/pci-dss-audit"><img src="assets/cards/pci-dss-audit.svg" width="49%"/></a>
-  <a href="https://github.com/jarredward1/grc-analyst-project"><img src="assets/cards/grc-analyst-project.svg" width="49%"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/jarredward1/server-2019-nlb"><img src="assets/cards/server-2019-nlb.svg" width="49%"/></a>
-  <a href="https://github.com/jarredward1/wordpress-proof-of-concept"><img src="assets/cards/wordpress-proof-of-concept.svg" width="49%"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/jarredward1/enterprise-network-system-implementation"><img src="assets/cards/enterprise-network-system-implementation.svg" width="49%"/></a>
-  <a href="https://github.com/jarredward1/threat-hunts"><img src="assets/cards/threat-hunts.svg" width="49%"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/jarredward1/azure-soc"><img src="assets/cards/azure-soc.svg" width="49%"/></a>
-  <a href="https://github.com/jarredward1/claude-ask"><img src="assets/cards/claude-ask.svg" width="49%"/></a>
-</p>
 
 &nbsp;
 &nbsp;
@@ -77,11 +84,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jarredward1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-  <img src="https://komarev.com/ghpvc/?username=jarredward1&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
-
-&nbsp;
-&nbsp;
 
 <div align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=jarredward1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -130,7 +133,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/) &nbsp; &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Ward_official@protonmail.com)
 
 </div>

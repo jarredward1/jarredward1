@@ -1,4 +1,4 @@
-<svg width="900" height="560" viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg">
+<svg width="640" height="620" viewBox="0 0 640 620" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#A9FEF7"/>
@@ -15,58 +15,63 @@
     <style>
       .bg { fill: #0d1117; }
       .card { fill: #11151c; stroke: url(#borderGrad); stroke-width: 1.5; rx: 16; }
-      .title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 32px; font-weight: 700; fill: url(#titleGrad); }
-      .label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; font-weight: 700; }
+      .title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 28px; font-weight: 700; fill: url(#titleGrad); }
+      .label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 20px; font-weight: 700; }
       .value { font-family: 'Segoe UI', Arial, sans-serif; font-size: 17px; fill: #c9d1d9; }
       .row { fill: none; stroke: #30363d; stroke-width: 1; rx: 10; }
     </style>
   </defs>
 
-  <rect class="bg" width="900" height="560" rx="20"/>
-  <rect width="900" height="560" rx="20" fill="url(#diagLinesAbout)"/>
-  <rect class="card" x="6" y="6" width="888" height="548" rx="16" fill="none"/>
+  <rect class="bg" width="640" height="620" rx="20"/>
+  <rect width="640" height="620" rx="20" fill="url(#diagLinesAbout)"/>
+  <rect class="card" x="6" y="6" width="628" height="608" rx="16" fill="none"/>
 
-  <text x="40" y="55" class="title">📌 About Me</text>
+  <text x="32" y="50" class="title">📌 About Me</text>
 
   <!-- Row 1 -->
-  <rect class="row" x="36" y="90" width="828" height="56"/>
-  <circle cx="64" cy="118" r="6" fill="#3FB950"/>
-  <text x="88" y="110" class="label" fill="#7EE787">Currently working on</text>
-  <text x="88" y="132" class="value">Building out my vulnerability management &amp; GRC project portfolio</text>
+  <rect class="row" x="28" y="76" width="584" height="76"/>
+  <circle cx="52" cy="106" r="6" fill="#3FB950"/>
+  <text x="72" y="101" class="label" fill="#7EE787">Currently working on</text>
+  <text x="72" y="128" class="value">Building out my vulnerability management</text>
+  <text x="72" y="148" class="value">&amp; GRC project portfolio</text>
 
   <!-- Row 2 -->
-  <rect class="row" x="36" y="166" width="828" height="56"/>
-  <circle cx="64" cy="194" r="6" fill="#A78BFA"/>
-  <text x="88" y="186" class="label" fill="#C4B5FD">Currently learning</text>
-  <text x="88" y="208" class="value">Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)</text>
+  <rect class="row" x="28" y="160" width="584" height="76"/>
+  <circle cx="52" cy="190" r="6" fill="#A78BFA"/>
+  <text x="72" y="185" class="label" fill="#C4B5FD">Currently learning</text>
+  <text x="72" y="212" class="value">Microsoft Certified: Cloud and AI Security</text>
+  <text x="72" y="232" class="value">Engineer Associate (SC-500)</text>
 
   <!-- Row 3 -->
-  <rect class="row" x="36" y="242" width="828" height="56"/>
-  <circle cx="64" cy="270" r="6" fill="#58A6FF"/>
-  <text x="88" y="262" class="label" fill="#79C0FF">Looking to collaborate on</text>
-  <text x="88" y="284" class="value">Vulnerability management and GRC automation</text>
+  <rect class="row" x="28" y="244" width="584" height="76"/>
+  <circle cx="52" cy="274" r="6" fill="#58A6FF"/>
+  <text x="72" y="269" class="label" fill="#79C0FF">Looking to collaborate on</text>
+  <text x="72" y="296" class="value">Vulnerability management and GRC</text>
+  <text x="72" y="316" class="value">automation</text>
 
   <!-- Row 4 -->
-  <rect class="row" x="36" y="318" width="828" height="56"/>
-  <circle cx="64" cy="346" r="6" fill="#F2CC60"/>
-  <text x="88" y="338" class="label" fill="#F2CC60">Ask me about</text>
-  <text x="88" y="360" class="value">Vulnerability management, GRC, NIST</text>
+  <rect class="row" x="28" y="328" width="584" height="76"/>
+  <circle cx="52" cy="358" r="6" fill="#F2CC60"/>
+  <text x="72" y="353" class="label" fill="#F2CC60">Ask me about</text>
+  <text x="72" y="380" class="value">Vulnerability management, GRC, NIST</text>
 
   <!-- Row 5 -->
-  <rect class="row" x="36" y="394" width="828" height="56"/>
-  <circle cx="64" cy="422" r="6" fill="#F783AC"/>
-  <text x="88" y="414" class="label" fill="#F783AC">Reach me at</text>
-  <text x="88" y="436" class="value">Ward_official@protonmail.com</text>
+  <rect class="row" x="28" y="412" width="584" height="76"/>
+  <circle cx="52" cy="442" r="6" fill="#F783AC"/>
+  <text x="72" y="437" class="label" fill="#F783AC">Reach me at</text>
+  <text x="72" y="464" class="value">Ward_official@protonmail.com</text>
 
   <!-- Row 6 -->
-  <rect class="row" x="36" y="470" width="828" height="56"/>
-  <circle cx="64" cy="498" r="6" fill="#7EE787"/>
-  <text x="88" y="490" class="label" fill="#7EE787">Fun fact</text>
-  <text x="88" y="512" class="value">I have over 300 books and can tell you exactly where any one of them is on the shelf.</text>
+  <rect class="row" x="28" y="496" width="584" height="108"/>
+  <circle cx="52" cy="526" r="6" fill="#7EE787"/>
+  <text x="72" y="521" class="label" fill="#7EE787">Fun fact</text>
+  <text x="72" y="548" class="value">I have over 300 books and can tell you</text>
+  <text x="72" y="568" class="value">exactly where any one of them is on the</text>
+  <text x="72" y="588" class="value">shelf.</text>
 
   <defs>
     <clipPath id="cardClipAbout">
-      <rect x="6" y="6" width="888" height="548" rx="16"/>
+      <rect x="6" y="6" width="628" height="608" rx="16"/>
     </clipPath>
     <linearGradient id="glowBarAbout" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#A9FEF7" stop-opacity="0"/>
@@ -74,7 +79,7 @@
       <stop offset="100%" stop-color="#A9FEF7" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect x="6" y="-60" width="888" height="60" fill="url(#glowBarAbout)" clip-path="url(#cardClipAbout)">
-    <animate attributeName="y" values="-60;560" dur="7s" repeatCount="indefinite"/>
+  <rect x="6" y="-60" width="628" height="60" fill="url(#glowBarAbout)" clip-path="url(#cardClipAbout)">
+    <animate attributeName="y" values="-60;620" dur="7s" repeatCount="indefinite"/>
   </rect>
 </svg>

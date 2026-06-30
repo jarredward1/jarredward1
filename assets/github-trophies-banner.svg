@@ -1,11 +1,11 @@
-<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+<svg width="640" height="90" viewBox="0 0 640 90" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="borderGrad8" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="borderGradTrophies" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#A9FEF7"/>
       <stop offset="50%" stop-color="#A78BFA"/>
       <stop offset="100%" stop-color="#F472B6"/>
     </linearGradient>
-    <linearGradient id="titleGrad8" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="titleGradTrophies" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#A9FEF7"/>
       <stop offset="100%" stop-color="#A78BFA"/>
     </linearGradient>
@@ -13,14 +13,28 @@
       <line x1="0" y1="0" x2="0" y2="14" stroke="#A9FEF7" stroke-opacity="0.035" stroke-width="1"/>
     </pattern>
     <style>
-      .bg8 { fill: #0d1117; }
-      .title8 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 32px; font-weight: 700; fill: url(#titleGrad8); }
+      .bgTrophies { fill: #0d1117; }
+      .titleTrophies { font-family: 'Segoe UI', Arial, sans-serif; font-size: 24px; font-weight: 700; fill: url(#titleGradTrophies); }
     </style>
   </defs>
 
-  <rect class="bg8" width="900" height="100" rx="20"/>
-  <rect width="900" height="100" rx="20" fill="url(#diagLinesTrophies)"/>
-  <rect x="6" y="6" width="888" height="88" rx="16" fill="none" stroke="url(#borderGrad8)" stroke-width="1.5"/>
+  <rect class="bgTrophies" width="640" height="90" rx="18"/>
+  <rect width="640" height="90" rx="18" fill="url(#diagLinesTrophies)"/>
+  <rect x="5" y="5" width="630" height="80" rx="14" fill="none" stroke="url(#borderGradTrophies)" stroke-width="1.5"/>
 
-  <text x="40" y="62" class="title8">🏆 GitHub Trophies</text>
+  <text x="28" y="55" class="titleTrophies">🏆 GitHub Trophies</text>
+
+  <defs>
+    <clipPath id="cardClipTrophies">
+      <rect x="5" y="5" width="630" height="80" rx="14"/>
+    </clipPath>
+    <linearGradient id="glowBarTrophies" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#A9FEF7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#A78BFA" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#A9FEF7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="5" y="-30" width="630" height="30" fill="url(#glowBarTrophies)" clip-path="url(#cardClipTrophies)">
+    <animate attributeName="y" values="-30;90" dur="7s" repeatCount="indefinite"/>
+  </rect>
 </svg>
