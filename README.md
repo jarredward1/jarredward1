@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2500&pause=1000&multiline=true&width=720&height=80&center=true&lines=Hello%2C+I'm+Jarred!+%F0%9F%91%8B%F0%9F%8F%BE;Welcome+to+My+Cybersecurity+Portfolio!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&duration=2500&pause=1000&multiline=true&width=940&height=104&center=true&lines=Hello%2C+I'm+Jarred!+%F0%9F%91%8B%F0%9F%8F%BE;Welcome+to+My+Cybersecurity+Portfolio!" alt="Typing SVG" width="100%"/>
 </div>
 
 &nbsp;
@@ -16,27 +16,6 @@
 
 <div align="center">
   <img src="assets/about-me.svg" width="100%" alt="About Me"/>
-</div>
-
-&nbsp;
-&nbsp;
-
-<div align="center">
-  <img src="assets/tech-stack.svg" width="100%" alt="Tech Stack"/>
-</div>
-
-&nbsp;
-&nbsp;
-
-<div align="center">
-  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
-</div>
-
-&nbsp;
-&nbsp;
-
-<div align="center">
-  <img src="assets/skill-dna.svg" width="100%" alt="Skill DNA"/>
 </div>
 
 &nbsp;
@@ -76,6 +55,27 @@
 - [claude-ask](https://github.com/jarredward1/claude-ask): Static HTML bridge between spreadsheets and Claude: HYPERLINK formulas auto-load row data to clipboard for instant handoff to Claude.ai. `HTML`
 
 </details>
+
+&nbsp;
+&nbsp;
+
+<div align="center">
+  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
+</div>
+
+&nbsp;
+&nbsp;
+
+<div align="center">
+  <img src="assets/skill-dna.svg" width="100%" alt="Skill DNA"/>
+</div>
+
+&nbsp;
+&nbsp;
+
+<div align="center">
+  <img src="assets/tech-stack.svg" width="100%" alt="Tech Stack"/>
+</div>
 
 &nbsp;
 &nbsp;

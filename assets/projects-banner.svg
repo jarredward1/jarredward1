@@ -14,7 +14,7 @@
     </pattern>
     <style>
       .bgProjects { fill: #0d1117; }
-      .titleProjects { font-family: 'Segoe UI', Arial, sans-serif; font-size: 24px; font-weight: 700; fill: url(#titleGradProjects); }
+      .titleProjects { font-family: 'Segoe UI', Arial, sans-serif; font-size: 28px; font-weight: 700; fill: url(#titleGradProjects); }
     </style>
   </defs>
 
@@ -22,7 +22,7 @@
   <rect width="640" height="90" rx="18" fill="url(#diagLinesProjects)"/>
   <rect x="5" y="5" width="630" height="80" rx="14" fill="none" stroke="url(#borderGradProjects)" stroke-width="1.5"/>
 
-  <text x="28" y="55" class="titleProjects">💡 Projects</text>
+  <text x="32" y="52" class="titleProjects">💡 Projects</text>
 
   <defs>
     <clipPath id="cardClipProjects">
