@@ -1,66 +1,40 @@
-<svg width="560" height="588" viewBox="0 0 560 588" xmlns="http://www.w3.org/2000/svg">
+<svg width="640" height="90" viewBox="0 0 640 90" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="borderGradProjects" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#A9FEF7"/>
       <stop offset="50%" stop-color="#A78BFA"/>
       <stop offset="100%" stop-color="#F472B6"/>
     </linearGradient>
-    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="titleGradProjects" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#A9FEF7"/>
       <stop offset="100%" stop-color="#A78BFA"/>
     </linearGradient>
-    <pattern id="diagLinesAbout" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-      <line x1="0" y1="0" x2="0" y2="14" stroke="#A9FEF7" stroke-opacity="0.06" stroke-width="1"/>
+    <pattern id="diagLinesProjects" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="14" stroke="#A9FEF7" stroke-opacity="0.035" stroke-width="1"/>
     </pattern>
     <style>
-      .bg { fill: #0d1117; }
-      .card { fill: #11151c; stroke: url(#borderGrad); stroke-width: 1.5; rx: 16; }
-      .title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 28px; font-weight: 700; fill: url(#titleGrad); }
-      .label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 24px; font-weight: 700; }
-      .value { font-family: 'Segoe UI', Arial, sans-serif; font-size: 20px; fill: #c9d1d9; }
-      .row { fill: none; stroke: #30363d; stroke-width: 1; rx: 10; }
+      .bgProjects { fill: #0d1117; }
+      .titleProjects { font-family: 'Segoe UI', Arial, sans-serif; font-size: 28px; font-weight: 700; fill: url(#titleGradProjects); }
     </style>
   </defs>
 
-  <rect class="bg" width="560" height="588" rx="20"/>
-  <rect width="560" height="588" rx="20" fill="url(#diagLinesAbout)"/>
-  <rect class="card" x="6" y="6" width="548" height="576" rx="16" fill="none"/>
+  <rect class="bgProjects" width="640" height="90" rx="18"/>
+  <rect width="640" height="90" rx="18" fill="url(#diagLinesProjects)"/>
+  <rect x="5" y="5" width="630" height="80" rx="14" fill="none" stroke="url(#borderGradProjects)" stroke-width="1.5"/>
 
-  <text x="32" y="50" class="title">📌 About Me</text>
+  <text x="32" y="52" class="titleProjects">📌 About Me</text>
 
-  <!-- Row 1 -->
-  <rect class="row" x="28" y="76" width="504" height="500"/>
-  <text x="72" y="101" class="label" fill="#7EE787">I am...</text>
-<text x="72" y="128" class="value">
-  <tspan x="72" dy="0">A vulnerability management and GRC</tspan>
-  <tspan x="72" dy="27">professional focused on turning technical</tspan>
-  <tspan x="72" dy="27">findings and control gaps into clear,</tspan>
-  <tspan x="72" dy="27">measurable action. Before transitioning into</tspan>
-  <tspan x="72" dy="27">cybersecurity, I spent 12 years in corrections,</tspan>
-  <tspan x="72" dy="27">where assessing risk, enforcing policy,</tspan>
-  <tspan x="72" dy="27">maintaining audit-ready documentation, and</tspan>
-  <tspan x="72" dy="27">making sound decisions under pressure were</tspan>
-  <tspan x="72" dy="27">part of the daily job. I now apply that same</tspan>
-  <tspan x="72" dy="27">discipline to vulnerability assessments,</tspan>
-  <tspan x="72" dy="27">risk-based remediation, compliance auditing,</tspan>
-  <tspan x="72" dy="27">and security automation across Windows,</tspan>
-  <tspan x="72" dy="27">Linux, and cloud environments. My work</tspan>
-  <tspan x="72" dy="27">includes authenticated Tenable scanning,</tspan>
-  <tspan x="72" dy="27">PowerShell-based remediation, DISA STIG</tspan>
-  <tspan x="72" dy="27">implementation, and programs aligned with</tspan>
-  <tspan x="72" dy="27">NIST, PCI DSS, and ISO 27001.</tspan>
-</text>
   <defs>
-    <clipPath id="cardClipAbout">
-      <rect x="6" y="6" width="548" height="576" rx="16"/>
+    <clipPath id="cardClipProjects">
+      <rect x="5" y="5" width="630" height="80" rx="14"/>
     </clipPath>
-    <linearGradient id="glowBarAbout" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="glowBarProjects" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#A9FEF7" stop-opacity="0"/>
       <stop offset="50%" stop-color="#A78BFA" stop-opacity="0.04"/>
       <stop offset="100%" stop-color="#A9FEF7" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect x="6" y="-60" width="548" height="60" fill="url(#glowBarAbout)" clip-path="url(#cardClipAbout)">
-    <animate attributeName="y" values="-60;588" dur="7s" repeatCount="indefinite"/>
+  <rect x="5" y="-30" width="630" height="30" fill="url(#glowBarProjects)" clip-path="url(#cardClipProjects)">
+    <animate attributeName="y" values="-30;90" dur="7s" repeatCount="indefinite"/>
   </rect>
 </svg>
