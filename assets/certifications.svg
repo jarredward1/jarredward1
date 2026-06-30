@@ -1,4 +1,4 @@
-<svg width="900" height="460" viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg">
+<svg width="640" height="620" viewBox="0 0 640 620" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="borderGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#A9FEF7"/>
@@ -14,47 +14,54 @@
     </pattern>
     <style>
       .bg4 { fill: #0d1117; }
-      .title4 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 32px; font-weight: 700; fill: url(#titleGrad4); }
-      .label4 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; font-weight: 600; fill: #c9d1d9; }
-      .tag { font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; font-weight: 700; }
+      .title4 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 28px; font-weight: 700; fill: url(#titleGrad4); }
+      .label4 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 20px; font-weight: 600; fill: #c9d1d9; }
+      .sub4 { font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; font-weight: 600; }
       .row4 { fill: none; stroke: #30363d; stroke-width: 1; rx: 10; }
     </style>
   </defs>
 
-  <rect class="bg4" width="900" height="460" rx="20"/>
-  <rect width="900" height="460" rx="20" fill="url(#diagLinesCerts)"/>
-  <rect x="6" y="6" width="888" height="448" rx="16" fill="none" stroke="url(#borderGrad4)" stroke-width="1.5"/>
+  <rect class="bg4" width="640" height="620" rx="20"/>
+  <rect width="640" height="620" rx="20" fill="url(#diagLinesCerts)"/>
+  <rect x="6" y="6" width="628" height="608" rx="16" fill="none" stroke="url(#borderGrad4)" stroke-width="1.5"/>
 
-  <text x="40" y="55" class="title4">📜 Certifications</text>
+  <text x="32" y="50" class="title4">📜 Certifications</text>
 
-  <rect class="row4" x="32" y="86" width="836" height="50"/>
-  <circle cx="60" cy="111" r="6" fill="#7EE787"/>
-  <text x="84" y="116" class="label4">Google Cybersecurity Certificate</text>
-  <text x="826" y="117" class="tag" fill="#7EE787" text-anchor="middle">✅</text>
+  <!-- Cert 1 -->
+  <rect class="row4" x="28" y="76" width="584" height="92"/>
+  <text x="52" y="118" font-size="26" text-anchor="middle">✅</text>
+  <text x="84" y="112" class="label4">Google Cybersecurity Certificate</text>
+  <text x="84" y="138" class="sub4" fill="#7EE787">Earned</text>
 
-  <rect class="row4" x="32" y="158" width="836" height="50"/>
-  <circle cx="60" cy="183" r="6" fill="#7EE787"/>
-  <text x="84" y="188" class="label4">CompTIA Network+</text>
-  <text x="826" y="189" class="tag" fill="#7EE787" text-anchor="middle">✅</text>
+  <!-- Cert 2 -->
+  <rect class="row4" x="28" y="180" width="584" height="92"/>
+  <text x="52" y="222" font-size="26" text-anchor="middle">✅</text>
+  <text x="84" y="216" class="label4">CompTIA Network+</text>
+  <text x="84" y="242" class="sub4" fill="#7EE787">Earned</text>
 
-  <rect class="row4" x="32" y="230" width="836" height="50"/>
-  <circle cx="60" cy="255" r="6" fill="#7EE787"/>
-  <text x="84" y="260" class="label4">CompTIA Security+</text>
-  <text x="826" y="261" class="tag" fill="#7EE787" text-anchor="middle">✅</text>
+  <!-- Cert 3 -->
+  <rect class="row4" x="28" y="284" width="584" height="92"/>
+  <text x="52" y="326" font-size="26" text-anchor="middle">✅</text>
+  <text x="84" y="320" class="label4">CompTIA Security+</text>
+  <text x="84" y="346" class="sub4" fill="#7EE787">Earned</text>
 
-  <rect class="row4" x="32" y="302" width="836" height="50"/>
-  <circle cx="60" cy="327" r="6" fill="#7EE787"/>
-  <text x="84" y="332" class="label4">Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)</text>
-  <text x="826" y="333" class="tag" fill="#7EE787" text-anchor="middle">✅</text>
+  <!-- Cert 4 -->
+  <rect class="row4" x="28" y="388" width="584" height="92"/>
+  <text x="52" y="430" font-size="26" text-anchor="middle">✅</text>
+  <text x="84" y="416" class="label4">Microsoft Certified: Security, Compliance,</text>
+  <text x="84" y="438" class="label4">and Identity Fundamentals (SC-900)</text>
+  <text x="84" y="464" class="sub4" fill="#7EE787">Earned</text>
 
-  <rect class="row4" x="32" y="374" width="836" height="50"/>
-  <circle cx="60" cy="399" r="6" fill="#F2CC60"/>
-  <text x="84" y="404" class="label4">Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)</text>
-  <rect x="744" y="386" width="104" height="26" rx="13" fill="#2b2308" stroke="#F2CC60"/>
-  <text x="796" y="404" class="tag" fill="#F2CC60" text-anchor="middle">Nov 2026</text>
+  <!-- Cert 5 -->
+  <rect class="row4" x="28" y="500" width="584" height="100"/>
+  <text x="52" y="540" font-size="26" text-anchor="middle">🟡</text>
+  <text x="84" y="528" class="label4">Microsoft Certified: Cloud and AI Security</text>
+  <text x="84" y="550" class="label4">Engineer Associate (SC-500)</text>
+  <text x="84" y="578" class="sub4" fill="#F2CC60">In Progress · Nov 2026</text>
+
   <defs>
     <clipPath id="cardClipCerts">
-      <rect x="6" y="6" width="888" height="448" rx="16"/>
+      <rect x="6" y="6" width="628" height="608" rx="16"/>
     </clipPath>
     <linearGradient id="glowBarCerts" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
@@ -62,7 +69,7 @@
       <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect x="6" y="-60" width="888" height="60" fill="url(#glowBarCerts)" clip-path="url(#cardClipCerts)">
-    <animate attributeName="y" values="-60;460" dur="7s" repeatCount="indefinite"/>
+  <rect x="6" y="-60" width="628" height="60" fill="url(#glowBarCerts)" clip-path="url(#cardClipCerts)">
+    <animate attributeName="y" values="-60;620" dur="7s" repeatCount="indefinite"/>
   </rect>
 </svg>
