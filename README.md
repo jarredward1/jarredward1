@@ -22,27 +22,6 @@
 &nbsp;
 
 <div align="center">
-  <img src="assets/tech-stack.svg" width="100%" alt="Tech Stack"/>
-</div>
-
-&nbsp;
-&nbsp;
-
-<div align="center">
-  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
-</div>
-
-&nbsp;
-&nbsp;
-
-<div align="center">
-  <img src="assets/skill-dna.svg" width="100%" alt="Skill DNA"/>
-</div>
-
-&nbsp;
-&nbsp;
-
-<div align="center">
   <img src="assets/projects-banner.svg" width="100%" alt="Projects"/>
 </div>
 
@@ -76,6 +55,27 @@
 - [claude-ask](https://github.com/jarredward1/claude-ask): Static HTML bridge between spreadsheets and Claude: HYPERLINK formulas auto-load row data to clipboard for instant handoff to Claude.ai. `HTML`
 
 </details>
+
+&nbsp;
+&nbsp;
+
+<div align="center">
+  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
+</div>
+
+&nbsp;
+&nbsp;
+
+<div align="center">
+  <img src="assets/skill-dna.svg" width="100%" alt="Skill DNA"/>
+</div>
+
+&nbsp;
+&nbsp;
+
+<div align="center">
+  <img src="assets/tech-stack.svg" width="100%" alt="Tech Stack"/>
+</div>
 
 &nbsp;
 &nbsp;

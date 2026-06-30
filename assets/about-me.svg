@@ -38,7 +38,7 @@
   <rect class="row" x="28" y="160" width="504" height="76"/>
   <circle cx="52" cy="190" r="6" fill="#A78BFA"/>
   <text x="72" y="185" class="label" fill="#C4B5FD">Currently pursuing</text>
-  <text x="72" y="212" class="value">Microsoft SC-500</text>
+  <text x="72" y="212" class="value">CISA (Certified Information Systems Auditor)</text>
 
   <!-- Row 3 -->
   <rect class="row" x="28" y="244" width="504" height="76"/>
