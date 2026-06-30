@@ -29,45 +29,43 @@
   <text x="32" y="50" class="title">📌 About Me</text>
 
   <!-- Row 1 -->
-  <rect class="row" x="28" y="76" width="584" height="76"/>
+  <rect class="row" x="28" y="76" width="500" height="76"/>
   <circle cx="52" cy="106" r="6" fill="#3FB950"/>
   <text x="72" y="101" class="label" fill="#7EE787">Currently working on</text>
-  <text x="72" y="128" class="value">Building out my vulnerability management</text>
-  <text x="72" y="148" class="value">&amp; GRC project portfolio</text>
+  <text x="72" y="128" class="value">A vulnerability management automation project</text>
 
   <!-- Row 2 -->
-  <rect class="row" x="28" y="160" width="584" height="76"/>
+  <rect class="row" x="28" y="160" width="500" height="76"/>
   <circle cx="52" cy="190" r="6" fill="#A78BFA"/>
-  <text x="72" y="185" class="label" fill="#C4B5FD">Currently learning</text>
+  <text x="72" y="185" class="label" fill="#C4B5FD">Currently pursuing</text>
   <text x="72" y="212" class="value">Microsoft Certified: Cloud and AI Security</text>
-  <text x="72" y="232" class="value">Engineer Associate (SC-500)</text>
+  <text x="72" y="235" class="value">Engineer Associate (SC-500)</text>
 
   <!-- Row 3 -->
-  <rect class="row" x="28" y="244" width="584" height="76"/>
+  <rect class="row" x="28" y="244" width="500" height="76"/>
   <circle cx="52" cy="274" r="6" fill="#58A6FF"/>
   <text x="72" y="269" class="label" fill="#79C0FF">Looking to collaborate on</text>
-  <text x="72" y="296" class="value">Vulnerability management and GRC</text>
-  <text x="72" y="316" class="value">automation</text>
+  <text x="72" y="296" class="value">Agentic AI projects</text>
 
   <!-- Row 4 -->
-  <rect class="row" x="28" y="328" width="584" height="76"/>
+  <rect class="row" x="28" y="328" width="500" height="76"/>
   <circle cx="52" cy="358" r="6" fill="#F2CC60"/>
   <text x="72" y="353" class="label" fill="#F2CC60">Ask me about</text>
-  <text x="72" y="380" class="value">Vulnerability management, GRC, NIST</text>
+  <text x="72" y="380" class="value">The latest cybersecurity news</text>
 
   <!-- Row 5 -->
-  <rect class="row" x="28" y="412" width="584" height="76"/>
+  <rect class="row" x="28" y="412" width="500" height="76"/>
   <circle cx="52" cy="442" r="6" fill="#F783AC"/>
   <text x="72" y="437" class="label" fill="#F783AC">Reach me at</text>
   <text x="72" y="464" class="value">Ward_official@protonmail.com</text>
 
   <!-- Row 6 -->
-  <rect class="row" x="28" y="496" width="584" height="108"/>
+  <rect class="row" x="28" y="496" width="500" height="108"/>
   <circle cx="52" cy="526" r="6" fill="#7EE787"/>
   <text x="72" y="521" class="label" fill="#7EE787">Fun fact</text>
   <text x="72" y="548" class="value">I have over 300 books and can tell you</text>
-  <text x="72" y="568" class="value">exactly where any one of them is on the</text>
-  <text x="72" y="588" class="value">shelf.</text>
+  <text x="72" y="571" class="value">exactly where any one of them is on the</text>
+  <text x="72" y="594" class="value">shelf.</text>
 
   <defs>
     <clipPath id="cardClipAbout">

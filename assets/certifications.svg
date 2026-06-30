@@ -57,7 +57,7 @@
   <text x="52" y="540" font-size="26" text-anchor="middle">🟡</text>
   <text x="84" y="528" class="label4">Microsoft Certified: Cloud and AI Security</text>
   <text x="84" y="550" class="label4">Engineer Associate (SC-500)</text>
-  <text x="84" y="578" class="sub4" fill="#F2CC60">In Progress — target Nov 2026</text>
+  <text x="84" y="578" class="sub4" fill="#F2CC60">In Progress · Nov 2026</text>
 
   <defs>
     <clipPath id="cardClipCerts">

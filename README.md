@@ -27,17 +27,33 @@
 &nbsp;
 
 <div align="center">
+  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
+</div>
+
+&nbsp;
+&nbsp;
+
+<div align="center">
+  <img src="assets/skill-dna.svg" width="100%" alt="Skill DNA"/>
+</div>
+
+&nbsp;
+&nbsp;
+
+<div align="center">
   <img src="assets/projects-banner.svg" width="100%" alt="Projects"/>
 </div>
+
+**Vulnerability Management**
 
 <p align="center">
   <a href="https://github.com/jarredward1/vulnerability-management-program"><img src="assets/cards/vulnerability-management-program.svg" width="100%"/></a>
 </p>
+
+**GRC & Compliance**
+
 <p align="center">
   <a href="https://github.com/jarredward1/cybersecurity-risk-assessment"><img src="assets/cards/cybersecurity-risk-assessment.svg" width="100%"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/jarredward1/enterprise-network-system-implementation"><img src="assets/cards/enterprise-network-system-implementation.svg" width="100%"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/jarredward1/enterprise-security-program"><img src="assets/cards/enterprise-security-program.svg" width="100%"/></a>
@@ -49,31 +65,23 @@
   <a href="https://github.com/jarredward1/grc-analyst-project"><img src="assets/cards/grc-analyst-project.svg" width="100%"/></a>
 </p>
 
+**Network & Systems**
+
+<p align="center">
+  <a href="https://github.com/jarredward1/enterprise-network-system-implementation"><img src="assets/cards/enterprise-network-system-implementation.svg" width="100%"/></a>
+</p>
+
 <details>
 <summary><b>More Projects</b></summary>
 
-- [disa-stig-remediations](https://github.com/jarredward1/disa-stig-remediations) — Scripted remediation of DISA STIG findings across enterprise systems. `PowerShell`
-- [server-2019-nlb](https://github.com/jarredward1/server-2019-nlb) — Two-node Windows Server 2019 NLB cluster with IIS and Active Directory for high-availability web infrastructure.
-- [wordpress-proof-of-concept](https://github.com/jarredward1/wordpress-proof-of-concept) — WordPress deployment on a custom virtual network using LAMP, Docker, and an NGINX reverse proxy, with defense-in-depth hardening.
-- [threat-hunts](https://github.com/jarredward1/threat-hunts) — Hypothesis-driven threat hunts on live cyber ranges: M365/Azure AD compromise, BEC, and TOR misuse, traced via KQL in Microsoft Sentinel and Defender XDR.
-- [azure-soc](https://github.com/jarredward1/azure-soc) — Azure honeynet exposed to live traffic, monitored in Microsoft Sentinel, then hardened to measure incident reduction.
-- [claude-ask](https://github.com/jarredward1/claude-ask) — Static HTML bridge between spreadsheets and Claude: HYPERLINK formulas auto-load row data to clipboard for instant handoff to Claude.ai. `HTML`
+- [disa-stig-remediations](https://github.com/jarredward1/disa-stig-remediations): Scripted remediation of DISA STIG findings across enterprise systems. `PowerShell`
+- [server-2019-nlb](https://github.com/jarredward1/server-2019-nlb): Two-node Windows Server 2019 NLB cluster with IIS and Active Directory for high-availability web infrastructure.
+- [wordpress-proof-of-concept](https://github.com/jarredward1/wordpress-proof-of-concept): WordPress deployment on a custom virtual network using LAMP, Docker, and an NGINX reverse proxy, with defense-in-depth hardening.
+- [threat-hunts](https://github.com/jarredward1/threat-hunts): Hypothesis-driven threat hunts on live cyber ranges: M365/Azure AD compromise, BEC, and TOR misuse, traced via KQL in Microsoft Sentinel and Defender XDR.
+- [azure-soc](https://github.com/jarredward1/azure-soc): Azure honeynet exposed to live traffic, monitored in Microsoft Sentinel, then hardened to measure incident reduction.
+- [claude-ask](https://github.com/jarredward1/claude-ask): Static HTML bridge between spreadsheets and Claude: HYPERLINK formulas auto-load row data to clipboard for instant handoff to Claude.ai. `HTML`
 
 </details>
-
-&nbsp;
-&nbsp;
-
-<div align="center">
-  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
-</div>
-
-&nbsp;
-&nbsp;
-
-<div align="center">
-  <img src="assets/skill-dna.svg" width="100%" alt="Skill DNA"/>
-</div>
 
 &nbsp;
 &nbsp;

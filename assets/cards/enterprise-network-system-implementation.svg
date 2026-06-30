@@ -24,7 +24,7 @@
   <text x="28" y="34" class="cat">NETWORK &amp; SYSTEMS</text>
   <text x="28" y="64" class="title">Enterprise Network Implementation</text>
   <text x="28" y="94" class="desc">Full network buildout for a fictional law firm: LAN design,</text>
-  <text x="28" y="116" class="desc">hardware procurement, and Windows Server 2022 —</text>
+  <text x="28" y="116" class="desc">hardware procurement, and Windows Server 2022,</text>
   <text x="28" y="138" class="desc">delivered $9.2K under a $60K budget.</text>
 
   <rect x="28" y="156" width="180" height="28" rx="14" fill="#161b22" stroke="#30363d"/>

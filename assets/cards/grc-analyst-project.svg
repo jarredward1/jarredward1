@@ -24,7 +24,7 @@
   <text x="28" y="34" class="cat">GRC</text>
   <text x="28" y="64" class="title">GRC Analyst Project</text>
   <text x="28" y="94" class="desc">Security posture and gap analysis against NIST CSF 2.0's</text>
-  <text x="28" y="116" class="desc">six core functions — current Tier 1 (Partial) to target</text>
+  <text x="28" y="116" class="desc">six core functions, current Tier 1 (Partial) to target</text>
   <text x="28" y="138" class="desc">Tier 4 (Adaptive) roadmap.</text>
 
   <rect x="28" y="156" width="140" height="28" rx="14" fill="#161b22" stroke="#30363d"/>
