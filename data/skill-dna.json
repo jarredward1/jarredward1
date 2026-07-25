@@ -1,0 +1,10 @@
+{
+  "subtitle": "Portfolio focus by domain",
+  "domains": [
+    { "label": "GRC & Compliance", "percent": 35, "color": "#3FB950", "colorLight": "#7EE787" },
+    { "label": "Vulnerability Management", "percent": 20, "color": "#A78BFA", "colorLight": "#C4B5FD" },
+    { "label": "Security Operations", "percent": 20, "color": "#F2CC60", "colorLight": "#F7DE8F" },
+    { "label": "Cloud & Identity", "percent": 15, "color": "#58A6FF", "colorLight": "#79C0FF" },
+    { "label": "Network & Systems", "percent": 10, "color": "#79C0FF", "colorLight": "#58A6FF" }
+  ]
+}

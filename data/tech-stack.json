@@ -1,0 +1,29 @@
+{
+  "groups": [
+    {
+      "name": "GRC & Frameworks",
+      "color": "#58A6FF",
+      "tools": ["NIST 800-37", "NIST 800-53", "NIST 800-61", "ISO 27001", "PCI DSS", "DISA STIGs"]
+    },
+    {
+      "name": "Security Tooling",
+      "color": "#3FB950",
+      "tools": ["Tenable", "Microsoft Sentinel", "Microsoft Defender"]
+    },
+    {
+      "name": "Cloud & Infrastructure",
+      "color": "#A78BFA",
+      "tools": ["Azure", "Windows Server", "Active Directory", "Entra ID"]
+    },
+    {
+      "name": "Scripting & Query",
+      "color": "#F2CC60",
+      "tools": ["PowerShell", "Python", "KQL", "Bash"]
+    },
+    {
+      "name": "Web & Deployment",
+      "color": "#F783AC",
+      "tools": ["Docker", "NGINX", "WordPress"]
+    }
+  ]
+}
