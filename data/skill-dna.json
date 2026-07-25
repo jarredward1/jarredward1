@@ -1,5 +1,5 @@
 {
-  "subtitle": "Portfolio focus by domain",
+  "subtitle": "Portfolio focus by domain, automatically populated by all public repositories.",
   "domains": [
     { "label": "GRC & Compliance", "percent": 35, "color": "#3FB950", "colorLight": "#7EE787" },
     { "label": "Vulnerability Management", "percent": 20, "color": "#A78BFA", "colorLight": "#C4B5FD" },
