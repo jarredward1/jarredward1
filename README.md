@@ -18,7 +18,7 @@
   <img src="assets/about-me.svg" width="100%" alt="About Me"/>
 </div>
 
-### I am a vulnerability management and GRC engineer focused on turning technical findings and control gaps into clear, measurable, automated action. Before transitioning into cybersecurity, I spent 12 years in corrections, where assessing risk, enforcing policy, maintaining audit-ready documentation, and making sound decisions under pressure were part of the job every day. I now apply that same discipline to vulnerability assessments, risk-based remediation, compliance auditing, and security automation across Windows, Linux, and cloud environments. My work includes authenticated Tenable scanning, PowerShell-based remediation, DISA STIG implementation, and programs aligned with NIST, PCI DSS, and ISO 27001.
+### I am a GRC and vulnerability management analyst who turns technical findings and control gaps into clear, measurable, automated action. Before transitioning into cybersecurity, I spent 12 years in corrections, where assessing risk, enforcing policy, maintaining audit-ready documentation, and making sound decisions under pressure were daily job requirements. I now apply that same discipline to vulnerability assessments, risk-based remediation, and compliance programs across Windows, Linux, and cloud environments, including authenticated Tenable scanning, PowerShell-driven remediation, DISA STIG hardening, and audits mapped to NIST, PCI DSS, ISO 27001, CMMC, and the CIS Controls. I am currently working toward my CISSP to round out that foundation.
 
 &nbsp;
 &nbsp;
