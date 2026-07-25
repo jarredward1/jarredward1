@@ -61,15 +61,17 @@
   <a href="https://github.com/jarredward1/pci-dss-audit"><img src="assets/cards/pci-dss-audit.svg" width="100%"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/jarredward1/grc-analyst-project"><img src="assets/cards/grc-analyst-project.svg" width="100%"/></a>
+  <a href="https://github.com/jarredward1/cmmc-security-maturity-assessment"><img src="assets/cards/cmmc-security-maturity-assessment.svg" width="100%"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/jarredward1/enterprise-network-system-implementation"><img src="assets/cards/enterprise-network-system-implementation.svg" width="100%"/></a>
+  <a href="https://github.com/jarredward1/cis-controls-gap-analysis"><img src="assets/cards/cis-controls-gap-analysis.svg" width="100%"/></a>
 </p>
 
 <details>
 <summary><b>More Projects</b></summary>
 
+- [grc-analyst-project](https://github.com/jarredward1/grc-analyst-project): Security posture and gap analysis against NIST CSF 2.0's six core functions, current Tier 1 (Partial) to target Tier 4 (Adaptive) roadmap.
+- [enterprise-network-system-implementation](https://github.com/jarredward1/enterprise-network-system-implementation): Full network buildout for a fictional law firm: LAN design, hardware procurement, and Windows Server 2022, delivered $9.2K under a $60K budget.
 - [disa-stig-remediations](https://github.com/jarredward1/disa-stig-remediations): Scripted remediation of DISA STIG findings across enterprise systems. `PowerShell`
 - [server-2019-nlb](https://github.com/jarredward1/server-2019-nlb): Two-node Windows Server 2019 NLB cluster with IIS and Active Directory for high-availability web infrastructure.
 - [wordpress-proof-of-concept](https://github.com/jarredward1/wordpress-proof-of-concept): WordPress deployment on a custom virtual network using LAMP, Docker, and an NGINX reverse proxy, with defense-in-depth hardening.

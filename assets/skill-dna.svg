@@ -30,36 +30,36 @@
   <text x="32" y="46" class="title3">🧬 Skill DNA</text>
   <text x="32" y="68" class="sub3">Portfolio focus by domain, automatically populated by all public repositories.</text>
   
-  <!-- GRC &amp; Compliance 35% -->
+  <!-- GRC &amp; Compliance 50% -->
   <circle cx="48" cy="110" r="6" fill="#3FB950"/>
   <text x="68" y="116" class="label3">GRC &amp; Compliance</text>
-  <text x="608" y="116" class="pct3" text-anchor="end">35%</text>
+  <text x="608" y="116" class="pct3" text-anchor="end">50%</text>
   <rect class="track" x="32" y="128" width="576" height="18"/>
-  <rect x="32" y="128" width="202" height="18" rx="9" fill="url(#skillBar0)"/>
-  <!-- Vulnerability Management 20% -->
+  <rect x="32" y="128" width="288" height="18" rx="9" fill="url(#skillBar0)"/>
+  <!-- Vulnerability Management 8% -->
   <circle cx="48" cy="186" r="6" fill="#A78BFA"/>
   <text x="68" y="192" class="label3">Vulnerability Management</text>
-  <text x="608" y="192" class="pct3" text-anchor="end">20%</text>
+  <text x="608" y="192" class="pct3" text-anchor="end">8%</text>
   <rect class="track" x="32" y="204" width="576" height="18"/>
-  <rect x="32" y="204" width="115" height="18" rx="9" fill="url(#skillBar1)"/>
-  <!-- Security Operations 20% -->
+  <rect x="32" y="204" width="46" height="18" rx="9" fill="url(#skillBar1)"/>
+  <!-- Security Operations 8% -->
   <circle cx="48" cy="262" r="6" fill="#F2CC60"/>
   <text x="68" y="268" class="label3">Security Operations</text>
-  <text x="608" y="268" class="pct3" text-anchor="end">20%</text>
+  <text x="608" y="268" class="pct3" text-anchor="end">8%</text>
   <rect class="track" x="32" y="280" width="576" height="18"/>
-  <rect x="32" y="280" width="115" height="18" rx="9" fill="url(#skillBar2)"/>
-  <!-- Cloud &amp; Identity 15% -->
+  <rect x="32" y="280" width="46" height="18" rx="9" fill="url(#skillBar2)"/>
+  <!-- Cloud &amp; Identity 7% -->
   <circle cx="48" cy="338" r="6" fill="#58A6FF"/>
   <text x="68" y="344" class="label3">Cloud &amp; Identity</text>
-  <text x="608" y="344" class="pct3" text-anchor="end">15%</text>
+  <text x="608" y="344" class="pct3" text-anchor="end">7%</text>
   <rect class="track" x="32" y="356" width="576" height="18"/>
-  <rect x="32" y="356" width="86" height="18" rx="9" fill="url(#skillBar3)"/>
-  <!-- Network &amp; Systems 10% -->
+  <rect x="32" y="356" width="40" height="18" rx="9" fill="url(#skillBar3)"/>
+  <!-- Network &amp; Systems 27% -->
   <circle cx="48" cy="414" r="6" fill="#79C0FF"/>
   <text x="68" y="420" class="label3">Network &amp; Systems</text>
-  <text x="608" y="420" class="pct3" text-anchor="end">10%</text>
+  <text x="608" y="420" class="pct3" text-anchor="end">27%</text>
   <rect class="track" x="32" y="432" width="576" height="18"/>
-  <rect x="32" y="432" width="58" height="18" rx="9" fill="url(#skillBar4)"/>
+  <rect x="32" y="432" width="156" height="18" rx="9" fill="url(#skillBar4)"/>
 
   <defs>
     <clipPath id="cardClipSkill">
